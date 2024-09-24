@@ -21,15 +21,10 @@ package javabasic;
 /* 여러줄 주석
  * 한줄
  * 두줄
-  세줄
- */
-/*
- 작성자: 김자바
- 작성일: 2024-09-24
+ * 세줄
  */
 public class C01_03_01 {
-	//프로그램 실행 진입점
-	//main() 메소드
+	
 	public static void main(String[] args) {
 		//콘솔에 hello등의 문자를 출력한다
 		System.out.println("Hello, Java 02");
