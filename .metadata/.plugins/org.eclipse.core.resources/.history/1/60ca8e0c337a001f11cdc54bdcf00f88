@@ -1,0 +1,10 @@
+package javabasic;
+
+//실행문과 세미콜론(;)
+public class C01_03_04 {
+
+	public static void main(String[] args) {
+
+	}
+
+}

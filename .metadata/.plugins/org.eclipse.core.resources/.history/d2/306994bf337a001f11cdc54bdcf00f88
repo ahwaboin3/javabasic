@@ -1,0 +1,22 @@
+package javabasic;
+
+//실행문과 세미콜론(;)
+//블록 내부에는 다양한 실행문들이 작성됩니다.
+//실행문 끝에는 반드시 세미콜론(;)을 붙여서 실행문이 끝났음을
+//표시해주어야 하며, 그렇지 않으면 컴파일 에러가 발생합니다.
+public class C01_03_04 {
+
+	public static void main(String[] args) {
+		System.out.println("Hello, Java");
+//		System.out.println("Hello, Java")
+		//변수 x 선언
+		int x;
+		//변수 x에 1을 저장
+		x=1;
+		//변수 y를 선언하고 2를 저장
+		int y=2;
+		int result=x+y;
+		System.out.println(result);
+	}
+
+}
