@@ -94,18 +94,6 @@ public class C02_01_01 {
 		
 		//초기값은 다음과 같이 변수를 선언함과 동시에 제공할 수 있습니다.
 		int speed=90;
-		
-		//변수 사용
-		//변수는 출력문이나 연산식 내부에서 변수에 저장된 값을 
-		//출력하거나 연산할 때 사용합니다.
-		
-		int hour=3;
-		int minute=5;
-		
-		System.out.println(hour+"시간 "+minute+"분");
-		
-		int totalMinute=hour*60+minute;
-		System.out.println("총 "+totalMinute+"분");
 	}
 
 }

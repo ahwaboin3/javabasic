@@ -1,0 +1,18 @@
+package task;
+
+public class Receipe {
+
+	public static void main(String[] args) {
+		int four=4;
+		int g300=300;
+		int one=1;
+		int two=2;
+		double oneOfTwo=0.5;
+		String slightly="톡톡";
+		String suitable="적당량";
+		
+		System.out.println("고구마 카레덮밥 만들기");
+
+	}
+
+}
