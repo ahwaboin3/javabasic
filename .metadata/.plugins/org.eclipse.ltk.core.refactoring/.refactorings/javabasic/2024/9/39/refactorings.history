@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;c02.C02_02.java&apos; to &apos;C02_01_01.java&apos;&#x0D;&#x0A;- Original project: &apos;javabasic&apos;&#x0D;&#x0A;- Original element: &apos;c02.C02_02.java&apos;&#x0D;&#x0A;- Renamed element: &apos;c02.C02_01_01.java&apos;" description="Rename compilation unit &apos;C02_02.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;c02{C02_02.java" name="C02_01_01.java" references="false" stamp="1727157877530" version="1.0"/>
+</session>
