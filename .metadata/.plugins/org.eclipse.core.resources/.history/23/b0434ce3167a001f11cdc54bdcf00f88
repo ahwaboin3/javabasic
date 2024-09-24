@@ -1,0 +1,8 @@
+package javabasic;
+
+// 패키지란?
+// 패키지는 마치 파일 시스템의 폴더(디렉토리)와 비슷합니다
+// src 우클릭 > new > pakage > name : c02
+public class C01_03 {
+
+}

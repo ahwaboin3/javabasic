@@ -1,0 +1,7 @@
+package javabasic;
+
+//ctrl+ +,- 글자 크기 조정
+//src 폴더 우측클릭> new > class
+public class C01_01 {
+
+}
