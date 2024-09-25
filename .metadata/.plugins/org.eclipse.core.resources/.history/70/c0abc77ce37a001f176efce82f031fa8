@@ -1,0 +1,24 @@
+package c02;
+
+public class C02_02_03 {
+	public static void main(String[] args) {
+		//실수 타입
+		//소수점이 있는 수를 실수라고 한다
+		//타입|메모리 사용 크기
+		//float|4byte
+		//double|8byte
+		
+		//실수 리터럴
+		//소수점이 있는 숫자는 10진수 실수로 인식합니다
+		double d1=0.25;
+		double d2=-3.14;
+//		d2="str";
+		//지수와 가수로 표현된 소수점이 있는 10진수 실수로 인식합니다.
+		double d3=5e2;
+		double d4=0.12E-2;
+		//자바는 실수 리터럴을 기본적으로 double 타입으로
+		//해석하기 때문에 double 타입 변수에 저장해야 합니다.
+		float f=3.14;
+	}
+
+}

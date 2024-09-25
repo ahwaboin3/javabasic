@@ -1,0 +1,12 @@
+package c02;
+
+public class C02_03_01 {
+	public static void main(String[] args) {
+		//타입 변환
+		//타입 변환이란 데이터 타입을 다른 데이터 타입으로 변환하는 것
+		//예를 들어, byte 타입을 int 타입으로 변환하거나
+		//반대로 int 타입을 byte타입으로 변환하는 행위를 말합니다.
+		
+	}
+
+}

@@ -1,0 +1,8 @@
+package c02;
+
+public class C02_03_01 {
+	public static void main(String[] args) {
+		//타입 변환
+	}
+
+}

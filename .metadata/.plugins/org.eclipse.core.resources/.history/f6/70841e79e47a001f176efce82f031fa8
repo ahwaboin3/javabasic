@@ -1,0 +1,9 @@
+package c02;
+
+public class C02_02_04 {
+	public static void main(String[] args) {
+		//자바에서 가장 많이 쓰는 기본 타입
+		//int, String, boolean
+	}
+
+}

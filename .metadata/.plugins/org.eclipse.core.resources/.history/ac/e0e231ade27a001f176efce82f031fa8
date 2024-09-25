@@ -1,0 +1,9 @@
+package c02;
+
+public class C02_02_03 {
+	public static void main(String[] args) {
+		//실수 타입
+		//소수점이 있는 수를 실수라고 한다
+	}
+
+}
