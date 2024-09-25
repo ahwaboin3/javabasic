@@ -54,21 +54,6 @@ public class C02_03_01 {
 		//소수점 이하 부분은 버려지고, 정수 부분만 저장됩니다.
 		
 		//정수 연산에서의 자동 타입 변환
-		//byte, short타입의 변수는 int 타입으로
-		//자동 타입 변환되어 연산을 수행합니다.
-		//사칙 연산자 + - * /
-		byte b1=10;
-		byte b2=20;
-//		byte bb3=b1+b2;
-		int ii3=b1+b2;
-		byte bb3=(byte)(b1+b2);
-		
-		//피연산자 중 허용 범위가 큰 타입으로 변환되어 연산을 수행합니다.
-		byte v1=10;
-		int v2=100;
-		long v3=1000L;
-		long result=v1+v2+v3;
-		System.out.println(result);
 	}
 
 }

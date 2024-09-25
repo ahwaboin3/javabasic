@@ -63,12 +63,7 @@ public class C02_03_01 {
 		int ii3=b1+b2;
 		byte bb3=(byte)(b1+b2);
 		
-		//피연산자 중 허용 범위가 큰 타입으로 변환되어 연산을 수행합니다.
-		byte v1=10;
-		int v2=100;
-		long v3=1000L;
-		long result=v1+v2+v3;
-		System.out.println(result);
+		//두 피연산자 중 허용 번위가 큰 타입으로 변환되어 연산을 수행합니다.
 	}
 
 }
