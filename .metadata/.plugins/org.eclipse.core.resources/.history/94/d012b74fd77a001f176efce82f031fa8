@@ -1,0 +1,30 @@
+package c02;
+
+//파이썬
+//x=0
+//자바스크립트
+//let x=0
+//const y=1
+public class C02_02_01 {
+	//기본 타입
+	//변수를 선언할 때 주어지는 타입에 따라 변수에 저장할 수 있는
+	//값의 종류와 허용 범위가 달라집니다.
+	//변수를 선언한 후에는 타입을 변경할 수 없기 때문에
+	//변수를 선언할 때 어떤 타입을 사용할지 충분히 고려해야 합니다.
+	
+	//구분/저장되는 값에 따른 분류/타입의 종류
+	//기본타입/정수 타입/byte, char, short, int, long
+	//기본타입/실수 타입/float, double
+	//기본타입/논리 타입/boolean
+	
+	//정수 타입
+	//타입|메모리 사용 크기| 1byte==8bit
+	//byte|1byte|8bit
+	//short|2byte|16bit
+	public static void main(String[] args) {
+		int varName;
+		String strName;
+		byte b;char c;short s; int i;long l;
+	}
+
+}

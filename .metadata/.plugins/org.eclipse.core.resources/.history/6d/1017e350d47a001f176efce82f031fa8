@@ -1,0 +1,11 @@
+package c02;
+
+public class C02_01_03 {
+
+	public static void main(String[] args) {
+		//변수 사용 범위
+		//로컬 변수(local variable)
+		//메소드 블록 내에서 선언된 변수를 로컬 변수라고 합니다
+	}
+
+}

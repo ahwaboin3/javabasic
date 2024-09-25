@@ -1,0 +1,12 @@
+package c02;
+
+public class C02_02_01 {
+	//기본 타입
+	//변수를 선언할 때 주어지는 타입에 따라 변수에 저장할 수 있는
+	//값의 종류와 허용 범위가 달라집니다.
+	public static void main(String[] args) {
+		int varName;
+		String strName;
+	}
+
+}
