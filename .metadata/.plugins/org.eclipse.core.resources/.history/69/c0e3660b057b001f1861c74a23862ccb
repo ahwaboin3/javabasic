@@ -1,0 +1,8 @@
+package c02;
+
+public class C02_04_02 {
+	public static void main(String[] args) {
+		//키보드에서 입력된 내용을 변수에 저장하기
+	}
+
+}

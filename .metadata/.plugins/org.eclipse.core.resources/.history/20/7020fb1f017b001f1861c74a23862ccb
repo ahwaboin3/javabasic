@@ -1,0 +1,11 @@
+package c02;
+
+//변수와 시스템 입출력
+public class C02_04_01 {
+	
+	public static void main(String[] args) {
+		System.out.println("출력 내용");
+		//모니터로 변수값 출력하기
+	}
+
+}
