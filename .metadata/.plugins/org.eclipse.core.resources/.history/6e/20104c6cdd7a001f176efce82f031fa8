@@ -1,0 +1,14 @@
+package c02;
+
+public class C02_02_02 {
+	
+	public static void main(String[] args) {
+		//char 타입
+		//하나의 문자를 작은따옴표(')로 감싼 것을 문자 리터럴이라고 합니다.
+		//문자 리터럴은 유니코드(unicode)로 변환되어 저장됩니다.
+		//유니코드는 세계 각국의 문자를 2byte로 표현할 수 있는
+		//숫자(0~65535)로 매핑한 국제 표준 규약입니다.
+		char var1='A';
+	}
+
+}

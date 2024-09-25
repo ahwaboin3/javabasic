@@ -1,0 +1,11 @@
+package c02;
+
+public class C02_02_02 {
+	
+	public static void main(String[] args) {
+		//char 타입
+		//하나의 문자를 작은따옴표(')로 감싼 것을 문자 리터럴이라고 합니다.
+		char var1='A';
+	}
+
+}
