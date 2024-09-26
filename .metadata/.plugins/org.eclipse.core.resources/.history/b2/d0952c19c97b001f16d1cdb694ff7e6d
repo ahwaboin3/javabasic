@@ -1,0 +1,31 @@
+package c04;
+
+public class C04_01_03 {
+	
+	public static void main(String[] args) {
+		//if-else문
+		/*
+		 * if(조건식){
+		 * 	//조건식이 true
+		 * 	실행문A
+		 * }else{
+		 * 	//조건식이 false
+		 * 	실행문B
+		 * }
+		 * 실행문C
+		 * 1. 조건식이 true이면 실행문A->실행문C 실행
+		 * 2. 조건식이 false이면 실행문B->실행문C 실행
+		 */
+		int score=90;
+		
+		if(score>=60) {
+			System.out.println("점수가 60보다 큽니다");
+			System.out.println("합격입니다.");
+			int a=0;
+			int b=a+score;
+		}else {
+			
+		}
+	}
+
+}

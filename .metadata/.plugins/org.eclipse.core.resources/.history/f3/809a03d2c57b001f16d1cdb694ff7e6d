@@ -1,0 +1,33 @@
+package c04;
+
+//조건문:if문 switch문
+public class C0_04_01 {
+
+	public static void main(String[] args) {
+		//if문
+		/*
+		 * if(조건식){
+		 * 	조건식이 true면
+		 * 	{}불록에 있는 실행문이 실행됩니다
+		 * 	실행문A
+		 * }
+		 * 실행문B
+		 * 
+		 * 조건식이 true이면 실행문A->실행문B 실행
+		 * 조건식이 false이면 실행문 B 실행
+		 */
+		
+		int score=90;
+		if(true) {}
+		if(false) {}
+		boolean b1=true;
+		if(b1) {}
+		boolean b2=false;
+		if(b2) {}
+		if(10>2) {}
+		if(10==9) {}
+		if(10<9&&9<0) {}
+		if(10<9||9<0) {}
+	}
+
+}
