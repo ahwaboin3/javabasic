@@ -84,28 +84,8 @@ public class C03_01_01 {
 		
 		//논리 부정 연산자는 조건문과 제어문에서 조건식의 값을
 		//부정하도록 해서 실행 흐름을 제어할 때 주로 사용합니다.
-		if(true) {
-			//()안이 true이면 실행되는 블록
-		}else {
-			//()안이 false이면 실행되는 블록
-		}
-		int num5=5;
-		//num5가 4보다 작은 경우에만 조건적으로 실행
-		boolean bl3=num5>4;
-		if(!bl3) {
-			System.out.println("bl3은 4보다 작습니다.");
-		}
 		
-		System.out.println(bl3);
 		
-		//두 가지 상태(true/false)를 번갈아가며 변경하는 토글(toggle)
-		//기능을 구현할 때도 사용합니다.
-		boolean play=true;
-		System.out.println(play);
-		play=!play;
-		System.out.println(play);
-		play=!play;
-		System.out.println(play);
 	}
 
 }

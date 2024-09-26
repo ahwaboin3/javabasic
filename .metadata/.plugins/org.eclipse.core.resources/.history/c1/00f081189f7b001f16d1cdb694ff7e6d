@@ -96,16 +96,7 @@ public class C03_01_01 {
 			System.out.println("bl3은 4보다 작습니다.");
 		}
 		
-		System.out.println(bl3);
 		
-		//두 가지 상태(true/false)를 번갈아가며 변경하는 토글(toggle)
-		//기능을 구현할 때도 사용합니다.
-		boolean play=true;
-		System.out.println(play);
-		play=!play;
-		System.out.println(play);
-		play=!play;
-		System.out.println(play);
 	}
 
 }
