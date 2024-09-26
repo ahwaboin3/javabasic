@@ -45,14 +45,6 @@ public class C04_01_04 {
 		}else if(score2<80) {
 			System.out.println("80점 미만입니다");
 		}
-		//불필요한 예
-		if(score<100&&score>=90) {
-			System.out.println("점수가 100~90입니다.");
-			System.out.println("등급은 A입니다");
-		}else if(score<90&&score>=80) {
-			System.out.println("점수가 80~89입니다.");
-			System.out.println("등급은 B입니다");
-		}
 	}
 
 }

@@ -31,27 +31,6 @@ public class C04_01_04 {
 		}else if(score>=70) {
 			System.out.println("점수가 70~79입니다.");
 			System.out.println("등급은 C입니다");
-		}else {
-			System.out.println("점수가 70미만입니다.");
-			System.out.println("긍급은 D입니다.");
-		}
-		//else 블록은 생략이 가능하다
-		
-		//하나의 조건식이 true가되면 if문 전체가 끝난다
-		//잘못 된 예
-		int score2=60;
-		if(score2<90) {
-			System.out.println("90점 미만입니다");
-		}else if(score2<80) {
-			System.out.println("80점 미만입니다");
-		}
-		//불필요한 예
-		if(score<100&&score>=90) {
-			System.out.println("점수가 100~90입니다.");
-			System.out.println("등급은 A입니다");
-		}else if(score<90&&score>=80) {
-			System.out.println("점수가 80~89입니다.");
-			System.out.println("등급은 B입니다");
 		}
 	}
 
