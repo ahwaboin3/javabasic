@@ -20,6 +20,42 @@ public class C03_01_02 {
 		int result2=num1/3;
 		System.out.println(result2);
 		
+		//산술 연산자는 피연산자들의 타입이 동일하지 않을 경우
+		//피연산자들의 타입을 일치시킨 후 연산을 수행한다
+		//1. byte, short, char 타입일 경우 
+		//모두 int타입으로 변환된 후에 연산을 수행합니다.
+		//2. 피연산자들이 모두 정수 타입이고 long타입이 포함되어 있을 경우,
+		//모두 long 타입으로 변환된 후 연산을 수행합니다.
+		//3. 피연산자 중 실수 타입(float, double)이 있을 경우,
+		//허용 범위가 큰 실수 타입으로 변환된 후 연산을 수행합니다.
 		
+		int v1=5;
+		int v2=2;
+		
+		int r1=v1+v2;
+		System.out.println(r1);
+		
+		int r2=v1-v2;
+		System.out.println(r2);
+		
+		int r3=v1*v2;
+		System.out.println(r3);
+		
+		int r4=v1/v2;
+		System.out.println(r4);
+		
+		int r5=v1%v2;
+		System.out.println(r5);
+		
+		double r6=(double)v1/v2;
+		System.out.println(r6);
+		
+		//char타입의 산술 연산
+		char c1='A';
+		System.out.println(c1);
+		char c2=65;
+		System.out.println(c2);
+		char c3=(char)(c2+1);
+		System.out.println(c3);
 	}
 }
