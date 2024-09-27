@@ -1,6 +1,6 @@
-package c03;
+package c04;
 
-public class C03_01_01 {
+public class C04_01_06 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

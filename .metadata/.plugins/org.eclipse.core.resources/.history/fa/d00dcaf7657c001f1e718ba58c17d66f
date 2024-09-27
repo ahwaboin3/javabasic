@@ -1,0 +1,24 @@
+package c04;
+
+public class C04_01_06 {
+
+	public static void main(String[] args) {
+		//switch문
+		//if문처럼 조건식이 true일 경우에 블록 내부의
+		//실행문을 실행하는 것이 아니라,
+		//변수가 어떤 값을 갖느냐에 따라 실행문이 선택됩니다.
+		/*
+		 * switch(변수){
+		 * 	case 값1:
+		 * 		실행문A
+		 * 		break;
+		 * 	case 값2:
+		 * 		실행문B
+		 * 		break;
+		 * 	default:
+		 * 		실행문C
+		 * }
+		 */
+	}
+
+}

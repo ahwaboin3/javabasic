@@ -1,0 +1,58 @@
+package c04;
+
+public class C04_01_06 {
+
+	public static void main(String[] args) {
+		//switch문
+		//if문처럼 조건식이 true일 경우에 블록 내부의
+		//실행문을 실행하는 것이 아니라,
+		//변수가 어떤 값을 갖느냐에 따라 실행문이 선택됩니다.
+		/*
+		 * switch(변수){
+		 * 	case 값1:
+		 * 		실행문A
+		 * 		break;
+		 * 	case 값2:
+		 * 		실행문B
+		 * 		break;
+		 * 	default:
+		 * 		실행문C
+		 * }
+		 */
+		//주사위 번호 하나 뽑기
+		int num=(int)(Math.random()*6)+1;
+		switch(num) {
+			case 1:
+				System.out.println("1번이 나왔습니다.");
+				break;
+			case 2:
+				System.out.println("2번이 나왔습니다.");
+				break;
+			case 3:
+				System.out.println("3번이 나왔습니다.");
+				break;
+			default:
+				System.out.println("6번이 나왔습니다.");
+				break;
+		}
+		//if문은 조건식의 결과가 true, false 두  가지밖에 없기 때문에
+		//경우의 수가 많아질수록 else-if를 반본적으로 추가해야 하므로
+		//코드가 복잡해집니다
+		//switch문은 변수의 값에 따라서 실행문이 결정되기 때문에 코드가 간결하다
+		//일반적으로 if문을 많이 쓴다
+		
+		//switch문은 괄호 안의 변수 값과 동일한 값을 갖는 case로 가서
+		//실행문을 실행합니다.
+		//만약 괄호 안의 변수 값과 동일한 값을 갖는 case가 없으면 default로
+		//가서 실행문을 실행합니다.
+		//default는 생략 가능합니다.
+	}
+
+}
+
+
+
+
+
+
+

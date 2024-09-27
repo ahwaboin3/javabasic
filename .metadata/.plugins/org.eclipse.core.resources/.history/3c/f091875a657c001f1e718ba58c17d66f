@@ -1,0 +1,9 @@
+package c04;
+
+public class C04_01_06 {
+
+	public static void main(String[] args) {
+		//switch문
+	}
+
+}
