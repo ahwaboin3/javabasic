@@ -74,16 +74,8 @@ public class C04_01_07 {
 		//이 경우 바깥쪽 for문이 한 번 실행할 때마다 중첩된 for문은 지정된
 		//횟수 만큼 반복해서 돌다가 다시 바깥쪽 for문으로 돌아 갑니다.
 		for(int i=0;i<3;i++) {
-			for(int j=0;j<2;j++) {
+			for(int j=0;i<2;j++) {
 				System.out.println("i:"+i+","+"j:"+j);
-			}
-		}
-		int n=0;
-//		int n=0;
-		//구구단 출력하기
-		for(int i=2;i<=9;i++) {
-			for(int j=1;j<=9;j++) {
-				System.out.println(i+"x"+j+"="+i*j);
 			}
 		}
 	}
