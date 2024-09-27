@@ -1,0 +1,18 @@
+package c05;
+
+//배열
+//많은 양의 데이터를 적은 코드로 손쉽게 처리할 수 있는 배열
+public class C05_01_01 {
+
+	public static void main(String[] args) {
+		//학생 30명의 성적을 저장하고, 평균값을 구한다
+		int score1=83;
+		int score2=90;
+		int score3=87;
+		int sum=score1+score2+score3;
+		//하드코딩(hard coding)
+		//반복되는 코드가 너무 많고 조건문이나 반복문으로 간결해 질수 있는 코드를
+		//그대로 코드양으로 해결하는 방식
+	}
+
+}
