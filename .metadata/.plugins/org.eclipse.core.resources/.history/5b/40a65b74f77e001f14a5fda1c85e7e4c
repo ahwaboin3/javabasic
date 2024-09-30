@@ -1,0 +1,27 @@
+package c06;
+
+public class NetflixContent {
+	String name;
+	int releaseYear;
+	String sort;
+	
+	public NetflixContent(
+			String name,int releaseYear,String sort) {
+		this.name=name;
+		this.releaseYear=releaseYear;
+		this.sort=sort;
+	}
+	
+	public static void main(String[] args) {
+		NetflixContent nc1=
+				new NetflixContent("흑백요리사", 2024, "리얼리티 시리즈");
+		NetflixContent[] ncArray=new NetflixContent[3];
+		ncArray[0]=nc1;
+		for(NetflixContent nc:ncArray) {
+			System.out.println("내가 봤던 넷플릭스");
+			System.out.println("제목: "+nc.name);
+			System.out.println("출시 연도: "+nc.releaseYear);
+			System.out.println("장르: "+nc.sort);
+		}
+	}
+}

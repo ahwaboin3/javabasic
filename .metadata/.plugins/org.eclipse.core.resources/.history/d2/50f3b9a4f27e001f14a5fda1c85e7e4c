@@ -1,0 +1,10 @@
+package c06;
+
+public class OverLoading {
+	//생성자 오버로딩
+
+	public static void main(String[] args) {
+		
+	}
+
+}

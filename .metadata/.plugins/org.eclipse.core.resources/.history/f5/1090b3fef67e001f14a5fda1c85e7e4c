@@ -1,0 +1,18 @@
+package c06;
+
+public class NetflixContent {
+	String name;
+	int releaseYear;
+	String sort;
+	
+	public NetflixContent(
+			String name,int releaseYear,String sort) {
+		this.name=name;
+		this.releaseYear=releaseYear;
+		this.sort=sort;
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,33 @@
+package c06;
+
+public class Constructor2 {
+	String model;
+	String color;
+	int maxSpeed;
+	
+	//생성자 선언
+	/*
+	 * 클래스이름(매개변수선언,...){
+	 * 	//객체의 초기화 코드
+	 * }
+	 */
+	public Constructor2(String s1,String s2,int i1) {
+		
+	}
+
+	public static void main(String[] args) {
+		Constructor2 constructor2=new Constructor2();
+		//클래스 변수에 직접 접근하는 것은 좋지 않다
+		//아직 메소드를 배우지 않아서 직접 접근합니다
+		constructor2.model="투싼";
+		constructor2.color="검정";
+		constructor2.maxSpeed=300;
+		System.out.println(constructor2.model);
+		Constructor2 constructor21=new Constructor2();
+		constructor2.model="그랜져";
+		constructor2.color="회색";
+		constructor2.maxSpeed=320;
+		
+	}
+
+}

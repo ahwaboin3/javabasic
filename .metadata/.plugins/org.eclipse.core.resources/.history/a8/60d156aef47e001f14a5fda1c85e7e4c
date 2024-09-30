@@ -1,0 +1,10 @@
+package c06;
+
+public class MyCar {
+	//필드
+	String company="현대자동차";
+	String model;
+	String color;
+	int maxSpeed;
+
+}

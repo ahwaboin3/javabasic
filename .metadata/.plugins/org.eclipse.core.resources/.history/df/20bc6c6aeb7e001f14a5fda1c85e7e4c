@@ -1,0 +1,15 @@
+package c06;
+
+public class Constructor2 {
+	String model;
+	String color;
+	int maxSpeed;
+
+	public static void main(String[] args) {
+		Constructor2 constructor2=new Constructor2();
+		//클래스 변수에 직접 접근하는 것은 좋지 않다
+		//아직 메소드를 배우지 않아서 직접 접근합니다
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package c06;
+
+public class OverLoading {
+	//생성자 오버로딩
+	//생성자 오버로딩이란 매개 변수를 달리하여 생성자를 여러 개 선언하는 것을 말한다.
+
+	public static void main(String[] args) {
+		
+	}
+
+}
