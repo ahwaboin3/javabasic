@@ -1,0 +1,15 @@
+package c06;
+
+public class Ride {
+	String company="현재 자동차";
+	int speed;
+
+	public static void main(String[] args) {
+		//필드 사용
+		//Ride 클래스의 인스턴스 생성
+		Ride ride=new Ride();
+		System.out.println(ride.company);
+		System.out.println(ride.speed);
+	}
+
+}

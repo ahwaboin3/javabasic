@@ -1,0 +1,10 @@
+package c06;
+
+public class Ride {
+	String company="현재 자동차";
+
+	public static void main(String[] args) {
+		//필드 사용
+	}
+
+}

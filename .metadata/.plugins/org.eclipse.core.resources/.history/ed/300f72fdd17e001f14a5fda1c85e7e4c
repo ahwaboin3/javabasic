@@ -1,0 +1,9 @@
+package c06;
+
+public class CatExample {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}
