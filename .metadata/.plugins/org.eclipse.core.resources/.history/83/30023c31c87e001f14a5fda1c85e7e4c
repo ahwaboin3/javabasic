@@ -1,0 +1,13 @@
+package c05;
+
+//상수(constants)
+// - 변수에 값을 딱 한 번만 할당할 수 있으면 그것은 상수
+// - 한 번 할당된 값은 변경이 불가능 하다
+// - 키워드 final 선언이 붙어있는 변수
+public class C05_02_01 {
+
+	public static void main(String[] args) {
+
+	}
+
+}
