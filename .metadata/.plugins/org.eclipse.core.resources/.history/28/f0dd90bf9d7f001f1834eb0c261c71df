@@ -1,0 +1,7 @@
+package c06;
+
+public class MethodCall {
+	//메소드 호출
+	//객체 내부에서 호출
+
+}

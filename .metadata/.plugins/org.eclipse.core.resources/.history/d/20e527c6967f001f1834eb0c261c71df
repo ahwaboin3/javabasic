@@ -1,0 +1,13 @@
+package c06;
+
+public class MethodRetrun {
+	//리턴(return)문
+	//리턴값이 있는 메소드
+	//메소드 선언에 리턴 타입이 있는 메소드는 반드시 리턴문을 사용해서
+	//리턴값을 지정해야 합니다.
+	//만약 return문이 없다면 컴파일 에러가 발생합니다.
+	int plus(int x, int y) {
+		
+	}
+
+}

@@ -1,0 +1,10 @@
+package c06;
+
+public class CalAvg {
+	int[] points;
+	
+	CalAvg(int ...points){
+		this.points=points;
+	}
+
+}

@@ -1,0 +1,21 @@
+package c06;
+
+public class CalAvg {
+	int[] points;
+	
+	CalAvg(int ...points){
+		this.points=points;
+	}
+	
+	//총합
+	int getSum() {
+		int sum=0;
+		for(int point:points) {
+			sum+=point;
+		}
+		return sum;
+	}
+	//평균
+	
+
+}
