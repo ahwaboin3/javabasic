@@ -1,0 +1,6 @@
+package c06;
+
+//자기 자신의 생성자 호출:this()
+public class ThisCar {
+
+}

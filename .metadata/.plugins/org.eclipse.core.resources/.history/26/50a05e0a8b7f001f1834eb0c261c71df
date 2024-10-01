@@ -1,0 +1,10 @@
+package c06;
+
+import java.util.Scanner;
+
+public class ThatCar {
+	ThisCar thisCar;
+	String model;
+	Scanner scanner;
+
+}
