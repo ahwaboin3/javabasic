@@ -1,0 +1,6 @@
+package c06;
+
+//싱글톤
+public class Singleton {
+
+}

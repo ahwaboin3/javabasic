@@ -1,0 +1,26 @@
+package c06;
+
+//메소드 오버로딩
+//클래스 내에 같은 이름의 메소드를 여러 개 선언하는 것을
+//메소드 오버로딩이라고 합니다.
+//메소드 오버로딩의 조건은 매개변수의 타입, 개수, 순서 중 하나가 달라야 한다
+public class MethodOverloading {
+	//메소드 오버로딩이 필요한 이유는 매개값을 다양하게 받아 처리할 수 있도록
+	//하기 위해서입니다.
+	int plus(int x,int y) {
+		return x+y;
+	}
+	double plus(double x,double y) {
+		return x+y;
+	}
+	
+	public static void main(String[] args) {
+		System.out.println(3);
+		System.out.println("문자열");
+		
+		MethodOverloading mo=new MethodOverloading();
+		mo.plus(10, 42);
+		mo.plus(10.0, 4.5);
+	}
+
+}

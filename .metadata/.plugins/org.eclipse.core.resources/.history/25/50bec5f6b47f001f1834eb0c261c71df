@@ -1,0 +1,11 @@
+package c06;
+
+//정적 멤버와 static
+public class StaticMember {
+	Car car;
+	
+	public static void main(String[] args) {
+		System.out.println("static method");
+	}
+
+}
