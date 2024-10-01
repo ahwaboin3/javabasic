@@ -13,18 +13,14 @@ public class Singleton {
 	//접근 제한자는 나중에 자세히 설명하기로 하고,
 	//여기서는 외부에서 생성자 호출을 막기 위해 private를 붙여준다는 것만
 	//알아 두세요.
-	
-	//자신의 타입인 정적 필드를 하나 선언하고 자신의 객체를
-	//생성해 초기화합니다.
-	//참고로 클래스 내부에서는 private붙은 필드와 메소드가 사용 가능 하다
 	private static Singleton singleton=new Singleton();
 	
 	private Singleton() {
 	}
 	
-	//외부에서 호출할 수 있는 정적 메소드를 선언하고 정적 필드에서
-	//참조하고 있는 자신의 객체를 리턴해줍니다.
 	static Singleton getInstance() {
-		return singleton;
+		if()
+		return 
 	}
+
 }

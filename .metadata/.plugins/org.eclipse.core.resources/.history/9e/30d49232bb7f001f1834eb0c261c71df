@@ -1,0 +1,9 @@
+package c06;
+
+public class SingletonApp {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}
