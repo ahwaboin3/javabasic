@@ -1,0 +1,6 @@
+package c06;
+
+public class Param {
+	//매개 변수의 개수를 모를 경우
+
+}
