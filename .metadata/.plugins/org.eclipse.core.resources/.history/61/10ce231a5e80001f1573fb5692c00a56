@@ -1,0 +1,15 @@
+package c06.access;
+
+public class FieldAccessApp {
+
+	public static void main(String[] args) {
+		FieldAccess fa=new FieldAccess();
+		fa.name="John Doe";
+		System.out.println(fa);
+		//객체 지향 4대 요소
+		//추상화, 캡슐화, 상속성, 다형성
+		//클래스 변수를 다른 클래스에서 직접 접근 하는 것은
+		//객제 지향 관점의 캡슐화에 위배 된다
+	}
+
+}

@@ -1,0 +1,10 @@
+package c06.access;
+
+public class FieldAccessApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

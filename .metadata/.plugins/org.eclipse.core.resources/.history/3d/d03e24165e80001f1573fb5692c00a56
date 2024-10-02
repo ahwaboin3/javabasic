@@ -1,0 +1,13 @@
+package c06.access;
+
+public class FieldAccessApp {
+
+	public static void main(String[] args) {
+		FieldAccess fa=new FieldAccess();
+		fa.name="John Doe";
+		System.out.println(fa);
+		//객체 지향 4대 요소
+		//추상화, 캡슐화, 상속성, 다형성
+	}
+
+}

@@ -1,0 +1,36 @@
+package c06.dto;
+
+//DTO, VO, Entity
+public class Person {
+	
+	private String name;
+	private String phone;
+	
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getPhone() {
+		return phone;
+	}
+	public void setPhone(String phone) {
+		this.phone = phone;
+	}
+	
+	@Override
+	public String toString() {
+		return "Person [name=" + name + ", phone=" + phone + "]";
+	}
+	
+	public static void main(String[] args) {
+		Person p1=new Person();
+		p1.setName("김자바1");
+		p1.setPhone("010-1234-5678");
+		
+		Person[] pArr=new Person[100];
+		pArr[0]=p1;
+	}
+	
+}

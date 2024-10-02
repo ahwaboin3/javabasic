@@ -1,0 +1,7 @@
+package c06.access;
+
+//필드 접근 제한
+public class FieldAccess {
+	String name;
+	
+}

@@ -1,0 +1,9 @@
+package c06.dto;
+
+//DTO, VO, Entity
+public class Person {
+	private String name;
+	private String phone;
+	
+	
+}

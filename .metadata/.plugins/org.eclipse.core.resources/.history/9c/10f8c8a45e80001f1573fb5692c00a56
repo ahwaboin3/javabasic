@@ -1,0 +1,8 @@
+package c06.access;
+
+//필드 접근 제한
+public class FieldAccess {
+	String name;
+	//접근 제한자 없는 경우는 default 접근 제한입니다.
+	
+}

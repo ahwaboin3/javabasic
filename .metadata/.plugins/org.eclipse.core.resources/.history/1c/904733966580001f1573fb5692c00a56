@@ -1,0 +1,6 @@
+package c06.dto;
+
+//DTO, VO, Entity
+public class Person {
+	
+}

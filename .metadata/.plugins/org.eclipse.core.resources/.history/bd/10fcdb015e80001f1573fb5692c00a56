@@ -1,0 +1,11 @@
+package c06.access;
+
+public class FieldAccessApp {
+
+	public static void main(String[] args) {
+		FieldAccess fa=new FieldAccess();
+		fa.name="John Doe";
+		System.out.println(fa);
+	}
+
+}

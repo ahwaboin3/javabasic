@@ -1,0 +1,20 @@
+package c06.access;
+
+//무결성
+//데이터에는 제약사항이 존재합니다
+//제약사항에 맞게 결점이 없는 상태를 데이터 무결성이라고 합니다.
+public class Person {
+	private String name;
+	private int age;
+	
+	public void setAge(int age) {
+		this.age=age;
+	}
+	
+	public static void main(String[] args) {
+		Person p1=new Person();
+		//외부에서 음수로 변경하면 클래스 변수의 무결성이 깨집니다.
+//		p1.age=-10;
+	}
+
+}
