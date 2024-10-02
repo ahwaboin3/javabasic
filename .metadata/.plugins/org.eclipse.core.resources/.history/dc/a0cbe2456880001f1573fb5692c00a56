@@ -38,7 +38,7 @@ public class Person {
 		Person[] pArr=new Person[100];
 		pArr[0]=p1;
 		pArr[1]=p2;
-		pArr[2]=p3;
+		pArr[2]=p2;
 		
 		for(int i=0;i<3;i++) {
 			System.out.println(pArr[i].toString());
