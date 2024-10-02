@@ -1,0 +1,13 @@
+package c07;
+
+public class Student extends People {
+
+	//부모 생성자 호출
+	//현실에서 부모 없는 자식이 있을 수 없듯이 자바에서도 자식 객체를 생성하면
+	//부모 객체가 먼저 생성되고 그다음에 자식 객체가 생성됩니다.
+	public Student() {
+		super();
+	}
+	
+
+}

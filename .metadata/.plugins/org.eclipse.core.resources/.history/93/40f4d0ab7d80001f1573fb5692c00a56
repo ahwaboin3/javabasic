@@ -1,0 +1,7 @@
+package c07;
+
+public class CellPhone {
+	private model;
+	private color;
+
+}

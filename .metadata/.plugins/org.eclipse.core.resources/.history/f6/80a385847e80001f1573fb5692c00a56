@@ -1,0 +1,11 @@
+package c07;
+
+public class DmbCellPhone extends CellPhone {
+	
+	private int channel;
+	
+	public static void main(String[] args) {
+		DmbCellPhone dcp=new DmbCellPhone();
+	}
+	
+}
