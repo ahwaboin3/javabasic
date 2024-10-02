@@ -1,0 +1,11 @@
+package c07;
+
+public class SupersonicAirplane extends Airplane{
+
+	@Override
+	public void fly() {
+		//부모 메소드 호출 -super.fly();
+		
+	}
+
+}

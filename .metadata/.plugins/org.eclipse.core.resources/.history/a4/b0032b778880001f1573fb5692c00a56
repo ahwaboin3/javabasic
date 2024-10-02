@@ -1,0 +1,15 @@
+package c07;
+
+public class SupersonicAirplane extends Airplane{
+	private String flyMode="NORMAL";
+	
+	@Override
+	public void fly() {
+		//부모 메소드 호출 -super.fly();
+		if(flyMode=="SUPERSONIC") {
+			System.out.println("초음속비행합니다.");
+		}
+		
+	}
+
+}

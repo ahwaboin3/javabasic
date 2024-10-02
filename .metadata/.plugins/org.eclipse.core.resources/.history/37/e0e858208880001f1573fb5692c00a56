@@ -1,0 +1,10 @@
+package c07;
+
+public class SupersonicAirplane extends Airplane{
+
+	@Override
+	public void fly() {
+		super.fly();
+	}
+
+}
