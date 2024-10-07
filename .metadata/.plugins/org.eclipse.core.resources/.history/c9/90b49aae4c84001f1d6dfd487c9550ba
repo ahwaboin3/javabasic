@@ -11,12 +11,13 @@ package c07.poly2;
 //다른 실행결과가 나오게 할 수도 있습니다.
 public class Tire {
 	//최대 회전수(타이어 수명)
-	private int maxRotation;
+//	private int maxRotation;
+	protected int maxRotation;
 	//누적 회전수
-//	protected int accumulatedRotation;
 	private int accumulatedRotation;
 	//타이어의  위치
 	private String location;
+	
 	
 	public int getMaxRotation() {
 		return maxRotation;

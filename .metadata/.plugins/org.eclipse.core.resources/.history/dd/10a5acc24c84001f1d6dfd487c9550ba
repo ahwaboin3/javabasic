@@ -18,6 +18,7 @@ public class Tire {
 	//타이어의  위치
 	private String location;
 	
+	
 	public int getMaxRotation() {
 		return maxRotation;
 	}

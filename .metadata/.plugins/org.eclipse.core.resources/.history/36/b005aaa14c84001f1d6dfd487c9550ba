@@ -13,35 +13,10 @@ public class Tire {
 	//최대 회전수(타이어 수명)
 	private int maxRotation;
 	//누적 회전수
-//	protected int accumulatedRotation;
 	private int accumulatedRotation;
 	//타이어의  위치
 	private String location;
 	
-	public int getMaxRotation() {
-		return maxRotation;
-	}
-
-	public void setMaxRotation(int maxRotation) {
-		this.maxRotation = maxRotation;
-	}
-
-	public int getAccumulatedRotation() {
-		return accumulatedRotation;
-	}
-
-	public void setAccumulatedRotation(int accumulatedRotation) {
-		this.accumulatedRotation = accumulatedRotation;
-	}
-
-	public String getLocation() {
-		return location;
-	}
-
-	public void setLocation(String location) {
-		this.location = location;
-	}
-
 	public Tire(int maxRotation, String location) {
 		this.maxRotation = maxRotation;
 		this.location = location;

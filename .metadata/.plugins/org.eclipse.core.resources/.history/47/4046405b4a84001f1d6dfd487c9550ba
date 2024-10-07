@@ -7,38 +7,6 @@ public class Car {
 	private Tire backLeftTire;
 	private Tire backRightTire;
 	
-	public Tire getFrontLeftTire() {
-		return frontLeftTire;
-	}
-
-	public void setFrontLeftTire(Tire frontLeftTire) {
-		this.frontLeftTire = frontLeftTire;
-	}
-
-	public Tire getFrontRightTire() {
-		return frontRightTire;
-	}
-
-	public void setFrontRightTire(Tire frontRightTire) {
-		this.frontRightTire = frontRightTire;
-	}
-
-	public Tire getBackLeftTire() {
-		return backLeftTire;
-	}
-
-	public void setBackLeftTire(Tire backLeftTire) {
-		this.backLeftTire = backLeftTire;
-	}
-
-	public Tire getBackRightTire() {
-		return backRightTire;
-	}
-
-	public void setBackRightTire(Tire backRightTire) {
-		this.backRightTire = backRightTire;
-	}
-
 	//펑크 났을 때 실행
 	public void stop() {
 		System.out.println("[자동차가 멈춥니다.]");
