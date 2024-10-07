@@ -1,0 +1,6 @@
+package shopinglist;
+
+public class ShoppingList {
+	
+	private String name;
+}

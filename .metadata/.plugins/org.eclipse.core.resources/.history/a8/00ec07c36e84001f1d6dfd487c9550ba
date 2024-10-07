@@ -1,0 +1,18 @@
+package shopinglist;
+
+import java.util.Scanner;
+
+public class ShopingListApp {
+	private Scanner sc=new Scanner(System.in);
+	
+	public static void main(String[] args) {
+		while(true) {
+			System.out.println("0.종료 1. 물품 등록 2. 물품 보기");
+			int choice =sc.nextInt();
+			swich (choice){
+				
+			}
+		}
+	}
+
+}

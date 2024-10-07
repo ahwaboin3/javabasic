@@ -1,0 +1,6 @@
+package shopinglist;
+
+public class SoppingListRepositoy {
+	ShoppingList[] shoppingLists=new ShoppingList[100];
+
+}

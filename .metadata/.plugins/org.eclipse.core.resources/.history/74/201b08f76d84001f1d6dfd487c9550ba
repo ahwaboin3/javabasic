@@ -1,0 +1,14 @@
+package shopinglist;
+
+public class SoppingListRepositoy {
+	ShoppingList[] SLs=new ShoppingList[100];
+	int cnt=0;
+	
+	//물품 생성해서 배열에 저장
+	public void createSL(ShoppingList sl) {
+		SLs[cnt++]=sl;
+		
+	}
+	
+
+}
