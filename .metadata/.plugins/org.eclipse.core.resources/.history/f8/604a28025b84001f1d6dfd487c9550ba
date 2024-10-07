@@ -1,0 +1,11 @@
+package c07.video;
+
+public class Tving extends Video{
+
+	@Override
+	public String toString() {
+		return "Tving [getName()=" + getName();
+	}
+	
+	
+}

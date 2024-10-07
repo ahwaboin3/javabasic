@@ -1,0 +1,28 @@
+package c07.video;
+
+public class VideoController {
+	private Video[] videoArr=new Video[100];
+	private int cnt=0;
+	
+	//video 생성하고 목록에 저장
+	public void createVideo(String name) {
+		Video video=new Video();
+		video.setName(name);
+		videoArr[cnt++]=video;
+	}
+	
+	//video 목록 보여주기
+	public void printVideos() {
+		for(Video video:videoArr) {
+//			System.out.println(video.toString());
+			//toString()은 생략해도 된다
+			System.out.println(video);
+		}
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+	
+
+}
