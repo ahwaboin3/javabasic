@@ -1,0 +1,9 @@
+package c07.poly;
+
+public class SiameseCat extends Cat{
+	
+	public static void main(String[] args) {
+		Animal a1=new SiameseCat();
+	}
+
+}

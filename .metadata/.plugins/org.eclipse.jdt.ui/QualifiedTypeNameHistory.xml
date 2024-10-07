@@ -16,4 +16,15 @@
     <fullyQualifiedTypeName name="c06.StaticMember"/>
     <fullyQualifiedTypeName name="c06.SingletonApp"/>
     <fullyQualifiedTypeName name="c06.Singleton"/>
+    <fullyQualifiedTypeName name="c06.com.example.PakageEx1"/>
+    <fullyQualifiedTypeName name="c06.com.hankook.Tire"/>
+    <fullyQualifiedTypeName name="c06.com.hankook.BroadTire"/>
+    <fullyQualifiedTypeName name="c06.com.kumho.Tire"/>
+    <fullyQualifiedTypeName name="c06.access.FieldAccess"/>
+    <fullyQualifiedTypeName name="c07.SuperInheri"/>
+    <fullyQualifiedTypeName name="c07.DmbCellPhone"/>
+    <fullyQualifiedTypeName name="c07.Student"/>
+    <fullyQualifiedTypeName name="c07.Calculator"/>
+    <fullyQualifiedTypeName name="c07.EnCal"/>
+    <fullyQualifiedTypeName name="c07.SupersonicAirplane"/>
 </qualifiedTypeNameHistroy>

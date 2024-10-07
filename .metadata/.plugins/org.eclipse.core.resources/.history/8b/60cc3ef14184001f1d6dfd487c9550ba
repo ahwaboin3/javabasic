@@ -1,0 +1,5 @@
+package c07.poly;
+
+public class SiameseCat extends Cat{
+
+}
