@@ -41,27 +41,7 @@ public class ExceptionDetails {
 		//배열에서 인텍스 범위를 초과할 경우 예외가 발생합니다.
 		int[] arr= {1,2,3};
 		System.out.println(arr[0]);
-//		System.out.println(arr[3]);
-		
-		//NumberFormatException
-		//프로그램을 개발하다 보면 문자열로 되어 있는 데이터를
-		//숫자로 변경하는 경우가 자주 발생합니다.
-		//문자열을 숫자로 변환하는 방법은 여러 가지가 있지만
-		//주로 다음 코드를 가장 많이 사용합니다.
-		String data0=new String("300");
-		String data1="100";
-		String data2="100a";
-		
-		int value1=Integer.parseInt(data1);
-//		int value2=Integer.parseInt(data2);
-		
-		//ClassCastException
-		//타입 변환은 상위 클래스와 하위 클래스 간에 발생하고
-		//구현 클래스와 인터페이스 간에도 발생합니다.
-		//이러한 관계가 아닌데 타입 변환 할려고 하면 예외가 발생됩니다.
-		Object obj=new ExceptionDetails();
-		ExceptionDetails ed1=(ExceptionDetails)obj;
-		String str=(String)obj;
+		System.out.println(arr[3]);
 		
 		System.out.println("프로그램 끝");
 	}

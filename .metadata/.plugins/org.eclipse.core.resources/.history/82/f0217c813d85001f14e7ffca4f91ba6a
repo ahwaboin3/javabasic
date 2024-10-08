@@ -53,16 +53,13 @@ public class ExceptionDetails {
 		String data2="100a";
 		
 		int value1=Integer.parseInt(data1);
-//		int value2=Integer.parseInt(data2);
+		int value2=Integer.parseInt(data2);
 		
 		//ClassCastException
 		//타입 변환은 상위 클래스와 하위 클래스 간에 발생하고
 		//구현 클래스와 인터페이스 간에도 발생합니다.
 		//이러한 관계가 아닌데 타입 변환 할려고 하면 예외가 발생됩니다.
 		Object obj=new ExceptionDetails();
-		ExceptionDetails ed1=(ExceptionDetails)obj;
-		String str=(String)obj;
-		
 		System.out.println("프로그램 끝");
 	}
 	
