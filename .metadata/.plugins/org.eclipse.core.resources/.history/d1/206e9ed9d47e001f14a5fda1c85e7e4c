@@ -1,8 +1,0 @@
-package c06;
-
-//[] 생략가능한 부분
-public class FieldDefine {
-	//필드 선언
-	//타입 필드[=초기값];
-
-}

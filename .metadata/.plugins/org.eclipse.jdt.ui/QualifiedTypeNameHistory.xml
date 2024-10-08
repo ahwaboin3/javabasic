@@ -9,7 +9,6 @@
     <fullyQualifiedTypeName name="c06.Calculator"/>
     <fullyQualifiedTypeName name="c06.Param"/>
     <fullyQualifiedTypeName name="c06.MethodRetrun"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="c06.MethodCall"/>
     <fullyQualifiedTypeName name="c06.CalAvg"/>
     <fullyQualifiedTypeName name="c06.MethodOverloading"/>
@@ -27,4 +26,16 @@
     <fullyQualifiedTypeName name="c07.Calculator"/>
     <fullyQualifiedTypeName name="c07.EnCal"/>
     <fullyQualifiedTypeName name="c07.SupersonicAirplane"/>
+    <fullyQualifiedTypeName name="c07.poly.Animal"/>
+    <fullyQualifiedTypeName name="c07.poly.SiameseCat"/>
+    <fullyQualifiedTypeName name="c07.poly2.HankookTire"/>
+    <fullyQualifiedTypeName name="c07.poly3.Vehicle"/>
+    <fullyQualifiedTypeName name="c07.video.Video"/>
+    <fullyQualifiedTypeName name="c07.video.VideoController"/>
+    <fullyQualifiedTypeName name="c07.casting.ForceCasting"/>
+    <fullyQualifiedTypeName name="c07.casting.ForceCastingParents"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="shopinglist.ShopingListApp"/>
+    <fullyQualifiedTypeName name="shopinglist.ShoppingListRepository"/>
+    <fullyQualifiedTypeName name="shopinglist.ShoppingList"/>
 </qualifiedTypeNameHistroy>

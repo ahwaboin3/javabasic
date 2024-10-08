@@ -1,9 +1,0 @@
-package c06;
-
-public class Student {
-	
-	public static void main(String[] args) {
-		Student s1=new Student();
-		System.out.println("s1 변수가 Student의 인스턴스를 참조합니다.");
-	}
-}
