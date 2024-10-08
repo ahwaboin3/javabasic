@@ -1,0 +1,8 @@
+package c08.use;
+
+import c08.RemoteControl;
+
+public class MyClass {
+	RemoteControl rc;
+
+}

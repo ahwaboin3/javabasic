@@ -1,0 +1,8 @@
+package c08.paramploy;
+
+//매개 변수의 다형성
+public class Driver {
+	public void dirve(Vehicle vehicle) {
+		vehicle.run();
+	}
+}

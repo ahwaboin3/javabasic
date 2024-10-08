@@ -1,0 +1,10 @@
+package c08.fieldpoly;
+
+public class KumhoTire implements Tire {
+
+	@Override
+	public void roll() {
+
+	}
+
+}
