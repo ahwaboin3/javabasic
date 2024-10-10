@@ -1,0 +1,8 @@
+package c09;
+
+public class TryCatch2 {
+	public static void main(String[] args) {
+		//실행 예외 처리
+	}
+
+}

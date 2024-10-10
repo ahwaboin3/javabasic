@@ -38,4 +38,17 @@
     <fullyQualifiedTypeName name="shopinglist.ShopingListApp"/>
     <fullyQualifiedTypeName name="shopinglist.ShoppingListRepository"/>
     <fullyQualifiedTypeName name="shopinglist.ShoppingList"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="c08.Searchable"/>
+    <fullyQualifiedTypeName name="c08.SmartTelevision"/>
+    <fullyQualifiedTypeName name="c08.RemoteControl"/>
+    <fullyQualifiedTypeName name="c08.use.MyClass"/>
+    <fullyQualifiedTypeName name="c08.Television"/>
+    <fullyQualifiedTypeName name="c08.fieldpoly.HankookTire"/>
+    <fullyQualifiedTypeName name="c08.fieldpoly.KumhoTire"/>
+    <fullyQualifiedTypeName name="c08.paramploy.Vehicle"/>
+    <fullyQualifiedTypeName name="c08.paramploy.Bus"/>
+    <fullyQualifiedTypeName name="c09.ExceptionDetails"/>
+    <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
 </qualifiedTypeNameHistroy>

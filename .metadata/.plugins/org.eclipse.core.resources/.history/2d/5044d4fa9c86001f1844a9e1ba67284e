@@ -1,0 +1,20 @@
+package c09.deep;
+
+//예외 종류에 따른 처리 코드
+//예외의 종류에 따라 예외 처리 코드를 다르게 작성하는 방법
+
+//다중 catch
+//try 블록 내부는 다양한 예외가 발생할 수 있습니다. 예외별로 예외 처리 코드를
+//다르게 하려면 다중 catch블록을 작성하는 것입니다.
+public class CatchMulti {
+	
+	public static void main(String[] args) {
+		try {
+			String[] strs= {"하나","둘","셋"};
+			System.out.println(strs[3]);
+		}catch(ArrayIndexOutOfBoundsException e) {
+			System.out.println("범위를 넘어선 접근입니다.");
+		}
+	}
+
+}

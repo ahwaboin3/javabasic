@@ -1,8 +1,0 @@
-package c06;
-
-//메소드 오버로딩
-//클래스 내에 같은 이름의 메소드를 여러 개 선언하는 것을
-//메소드 오버로딩이라고 합니다.
-public class MethodOverloading {
-
-}
