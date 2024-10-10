@@ -63,7 +63,6 @@ public class JavaLangPakage {
 		//기본적으로 Object클래스의 toString()메소드는 
 		//'클래스 이름@16진수해시코드'로 구성된 문자 정보를 리턴합니다
 		System.out.println(jlp1);
-		System.out.println(jlp1.toString());
 	}
 }
 

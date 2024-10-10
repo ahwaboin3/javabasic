@@ -1,0 +1,7 @@
+package c10;
+
+public class ToStringExample {
+	public static void main(String[] args) {
+		
+	}
+}

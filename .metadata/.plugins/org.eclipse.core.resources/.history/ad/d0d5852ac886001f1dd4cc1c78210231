@@ -1,0 +1,7 @@
+package c10;
+
+public class SmartPhone {
+	private String company;
+	private String os;
+
+}
