@@ -1,0 +1,9 @@
+package c10.stringlibrary;
+
+//String 클래스
+//어떤 프로그램이건 문자열은 데이터로서 아주 많이 사용됩니다.
+//문자열을 생성하는 방법과 추출, 비교, 찾기, 분리, 변환 등을 제공하는
+//메소드를 알아 두자.
+public class StringMethods {
+
+}

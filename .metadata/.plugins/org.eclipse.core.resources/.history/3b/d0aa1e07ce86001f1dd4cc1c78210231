@@ -18,7 +18,7 @@ public class ExitExample {
 		for(int i=0;i<10;i++) {
 			if(i==5) {
 //				break;
-//				System.exit(0);
+				System.exit(0);
 			}
 		}
 		System.out.println("마무리 코드");
@@ -43,7 +43,6 @@ public class ExitExample {
 		long time2=System.nanoTime();
 		System.out.println("계산에 "+(time2-time1)
 				+" 나노초가 소요되었습니다.");
-		System.out.println("1~1000000까지의 합:"+sum);
 		
 		
 		
