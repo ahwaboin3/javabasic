@@ -1,7 +1,0 @@
-package c07;
-
-public class ToStr {
-	private int num;
-	
-
-}

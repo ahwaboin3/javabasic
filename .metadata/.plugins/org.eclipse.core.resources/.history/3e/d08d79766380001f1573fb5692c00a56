@@ -1,7 +1,0 @@
-package c06.access;
-
-//무결성
-//데이터에는 제약사항이 존재합니다
-public class Person {
-
-}

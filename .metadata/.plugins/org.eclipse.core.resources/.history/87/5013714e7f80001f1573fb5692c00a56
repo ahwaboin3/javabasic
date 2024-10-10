@@ -1,7 +1,0 @@
-package c07;
-
-public class People {
-	private String name;
-	private String ssn;
-
-}

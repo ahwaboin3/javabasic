@@ -1,0 +1,26 @@
+package c10;
+
+//java.lang 패키지
+//java.lang 패키지는 자바 프로그램의 기본적인 클래스를 담고 있는 패키지입니다.
+//그래서 java.lang 패키지에 있는 클래스와 인터페이스는 import 없이 사용할 수
+//있습니다.
+//지금까지 사용한 String과 System클래스도 java.lang 패키지에 포함되어 있기
+//때문에 import하지 않고 사용했습니다.
+
+//자바 API 도큐먼트
+//API(Application Programing Interface)
+//API는 라이브러리(liberary)라고 부르기도 하는데, 프로그램 개발에 자주 사용되는
+//클래스 및 인터페이스의 모음을 말합니다.
+public class JavaLangPakage {
+	
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+package c10;
+
+//java.lang 패키지
+//java.lang 패키지는 자바 프로그램의 기본적인 클래스를 담고 있는 패키지입니다.
+//그래서 java.lang 패키지에 있는 클래스와 인터페이스는 import 없이 사용할 수
+//있습니다.
+
+public class JavaLangPakage {
+	
+}

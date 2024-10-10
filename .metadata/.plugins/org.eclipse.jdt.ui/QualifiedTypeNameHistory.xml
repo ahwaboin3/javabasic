@@ -49,6 +49,10 @@
     <fullyQualifiedTypeName name="c08.paramploy.Vehicle"/>
     <fullyQualifiedTypeName name="c08.paramploy.Bus"/>
     <fullyQualifiedTypeName name="c09.ExceptionDetails"/>
-    <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.IncompatibleClassChangeError"/>
+    <fullyQualifiedTypeName name="c09.deep.ExceptionThrow"/>
+    <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
 </qualifiedTypeNameHistroy>
