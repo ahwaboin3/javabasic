@@ -1,0 +1,10 @@
+package c10.wrap;
+
+//Wrapper(포장) 클래스
+//자바 기본 타입(byte, char, short, int, long, floast, double, boolean
+//의 값을 갖는 객체를 생성할 수 있습니다.
+//이런 객체를 포장(wrapper)객체라고 하는데, 그 이유는 기본 타입의 값을 내부에
+//두고 포장하기 때문입니다.
+public class WrapperClass {
+
+}

@@ -49,21 +49,6 @@ public class WrapperClass {
 		//메소드가 있습니다.
 		//이 정적 메소드는 문자열을 매개값으로 받아 기본 타입 값으로 변환합니다.
 		int value1=Integer.parseInt("10");
-		double value2=Double.parseDouble("3.14");
-		boolean value3=Boolean.parseBoolean("true");
-		
-		//포장 값 비교
-		//포장 객체는 내부의 값을 비교하기 위해 ==와 !=연산자를 사용하지 않는 것이
-		//좋습니다.
-		//이 연산자는 내부의 값을 비교하는 것이 아니라 포장 객체의 참조를 비교하기
-		//때문입니다.
-		Integer obj1=300;
-		Integer obj2=300;
-		System.out.println(obj1==obj2);
-		//언박싱한 값을 얻어 비교를 해야 합니다.
-		//직접 내부 값을 언박싱해서 비교하거나, equals()메소드 내부 값을
-		//비교하는 것이 좋습니다.
-		System.out.println("equals() 결과: "+obj1.equals(obj2));
 	}
 
 }

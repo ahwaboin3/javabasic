@@ -61,9 +61,6 @@ public class WrapperClass {
 		Integer obj2=300;
 		System.out.println(obj1==obj2);
 		//언박싱한 값을 얻어 비교를 해야 합니다.
-		//직접 내부 값을 언박싱해서 비교하거나, equals()메소드 내부 값을
-		//비교하는 것이 좋습니다.
-		System.out.println("equals() 결과: "+obj1.equals(obj2));
 	}
 
 }
