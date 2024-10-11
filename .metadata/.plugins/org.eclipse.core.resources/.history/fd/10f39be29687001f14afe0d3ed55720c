@@ -12,7 +12,7 @@ public class ArrayListClass {
 		//E->타입 파라미터
 		//ArrayList를 생성하기 위해서는 저장할 객체 타입을 E 타입 파라미터 자리에
 		//표기하고 기본 생성자를 호출하면 됩니다.
-		List<String> list3=new ArrayList<String>();
+		List<String> list=new ArrayList<String>();
 		List<Integer> list1=new ArrayList<Integer>();
 		//아래의 코드와 같이 ArrayList의 E 타입 파라미터를 생략하면
 		//왼쪽 List에 지정된 타입을 따라 갑니다.
@@ -34,40 +34,6 @@ public class ArrayListClass {
 		//경우에는 ArrayList가 더 좋은 성능을 발휘합니다.
 		
 		//String 객체를 저장하는 ArrayList
-		List<String> list=new ArrayList<String>();
-		
-		//String 객체를 저장
-		list.add("Java");
-		list.add("JDBC");
-		list.add("Servlet/JSP");
-		//void add(int index,E element) - 주어진 인덱스에 객체를 추가합니다.
-		list.add(2, "Database");
-		list.add("iBATIS");
-		
-		//인덱스로 객체 얻기
-		System.out.println(list.get(2));
-		
-		//저장된 총 객체 수 얻기
-		int size=list.size();
-		System.out.println("총 객체수: "+size);
-		
-		//일반 for문으로 루핑
-		for(int i=0;i<list.size();i++) {
-			String str=list.get(i);
-			System.out.println(i+": "+str);
-		}
-		
-		//인덱스 값으로 삭제
-		list.remove(2);
-		//database 삭제됨
-		list.remove(2);
-		//Servlet/JSP 삭제됨
-		//값으로 삭제
-		list.remove("iBATIS");
-		
-		for(String s:list) {
-			System.out.println(s);
-		}
 	}
 
 }

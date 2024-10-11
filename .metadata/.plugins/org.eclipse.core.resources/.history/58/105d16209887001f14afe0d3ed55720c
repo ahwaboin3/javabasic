@@ -59,15 +59,6 @@ public class ArrayListClass {
 		
 		//인덱스 값으로 삭제
 		list.remove(2);
-		//database 삭제됨
-		list.remove(2);
-		//Servlet/JSP 삭제됨
-		//값으로 삭제
-		list.remove("iBATIS");
-		
-		for(String s:list) {
-			System.out.println(s);
-		}
 	}
 
 }

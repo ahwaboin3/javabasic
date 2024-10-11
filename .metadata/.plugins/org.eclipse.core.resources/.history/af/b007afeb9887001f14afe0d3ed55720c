@@ -1,0 +1,9 @@
+package c11;
+
+//LinkedList
+//LinkedList는 List구현 클래스이므로 ArrayList와 사용 방법은 똑같은데,
+//내부 구조는 완전 다릅니다. ArrayList는 내부 배열에 객체를 저장해서
+//관리하지만, LinkedList는 인접 참조를 링크해서 체인처럼 관리합니다.
+public class LinkedListClass {
+
+}

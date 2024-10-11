@@ -64,10 +64,6 @@ public class ArrayListClass {
 		//Servlet/JSP 삭제됨
 		//값으로 삭제
 		list.remove("iBATIS");
-		
-		for(String s:list) {
-			System.out.println(s);
-		}
 	}
 
 }

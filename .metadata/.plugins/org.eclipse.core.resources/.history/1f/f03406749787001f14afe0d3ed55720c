@@ -44,30 +44,7 @@ public class ArrayListClass {
 		list.add(2, "Database");
 		list.add("iBATIS");
 		
-		//인덱스로 객체 얻기
-		System.out.println(list.get(2));
 		
-		//저장된 총 객체 수 얻기
-		int size=list.size();
-		System.out.println("총 객체수: "+size);
-		
-		//일반 for문으로 루핑
-		for(int i=0;i<list.size();i++) {
-			String str=list.get(i);
-			System.out.println(i+": "+str);
-		}
-		
-		//인덱스 값으로 삭제
-		list.remove(2);
-		//database 삭제됨
-		list.remove(2);
-		//Servlet/JSP 삭제됨
-		//값으로 삭제
-		list.remove("iBATIS");
-		
-		for(String s:list) {
-			System.out.println(s);
-		}
 	}
 
 }
