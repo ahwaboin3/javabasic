@@ -1,0 +1,9 @@
+package c10.stringlibrary;
+
+public class StringMethods2 {
+	public static void main(String[] args) {
+		//String 클래스 2
+		//문자열 찾기(indexOf())
+	}
+
+}
