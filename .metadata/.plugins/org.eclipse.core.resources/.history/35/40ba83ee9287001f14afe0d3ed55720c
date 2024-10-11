@@ -1,0 +1,26 @@
+package c11;
+
+import java.util.ArrayList;
+import java.util.List;
+
+//ArrayList
+//ArrayList는 List인터페이스의 대표적인 구현 클래스입니다.
+public class ArrayListClass {
+	public static void main(String[] args) {
+		//ArrayList 객체를 생성
+		//List<E> list=new ArrayList<E>;
+		//E->타입 파라미터
+		//ArrayList를 생성하기 위해서는 저장할 객체 타입을 E 타입 파라미터 자리에
+		//표기하고 기본 생성자를 호출하면 됩니다.
+		List<String> list=new ArrayList<String>();
+		List<Integer> list1=new ArrayList<Integer>();
+	}
+
+}
+
+
+
+
+
+
+

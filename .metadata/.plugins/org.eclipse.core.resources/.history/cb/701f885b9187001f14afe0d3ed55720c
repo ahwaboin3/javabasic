@@ -29,23 +29,9 @@ public class Collection {
 	//메소드의 매개 변수 타입과 리턴 타입에 E라는 타입 파라미터가 있는데
 	//이것은 저장되는 객체의 타입을 List 컬렉션을 생성할 때 결정하라는 뜻입니다.
 	
-	public static void main(String[] args) {
-		ArrayList<String> strList=new ArrayList<String>();
-		//List<String>으로 list 변수를 선언하였습니다. 이것은 List컬렉션에
-		//저장되는 객체를 String 타입으로 하겠다는 뜻입니다.
-		//따라서 E 타입 파라미터는 String타입이 되는 것입니다.
-		//그래서 add()메소드의 매개값은 문자열이 되고 get()메소드의 리턴값은 문자열이
-		//됩니다
-		List<String> list=new ArrayList<String>();
-		list.add("홍길동");
-		String s1=list.get(0);
-		
-		//foreach문 사용
-		for(String s:list) {
-			System.out.println(s);
-		}
-		
-	}
+	//
+	ArrayList<String> strList=new ArrayList<String>();
+	List<String> sList=new ArrayList<String>();
 	
 
 }

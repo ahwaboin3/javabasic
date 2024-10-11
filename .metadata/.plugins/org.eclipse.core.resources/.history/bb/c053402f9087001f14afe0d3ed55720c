@@ -1,8 +1,5 @@
 package c11;
 
-import java.util.ArrayList;
-import java.util.List;
-
 //컬렉션 프레임워크
 //배열은 기본 타입뿐만 아니라 클래스 타입의 배열도 만들 수 있기 때문에
 //객체 저장소로 사용될 수 있습니다.
@@ -23,30 +20,6 @@ public class Collection {
 	//List 컬렉션에는 Arraylist, LinkedList
 	//Vector(1.3버전 이후로는 쓰지 않습니다.) 등이 있다.
 	//ArrayList<E> 참조변수이름=new ArrayList()<E>;
-	//List 인터페이스의 메소드
-	//boolean add(E e)- 주어진 객체를 맨 끝에 추가합니다.
-	//E get(int index) - 주어진 인덱스에 저장된 객체를 리턴합니다.
-	//메소드의 매개 변수 타입과 리턴 타입에 E라는 타입 파라미터가 있는데
-	//이것은 저장되는 객체의 타입을 List 컬렉션을 생성할 때 결정하라는 뜻입니다.
-	
-	public static void main(String[] args) {
-		ArrayList<String> strList=new ArrayList<String>();
-		//List<String>으로 list 변수를 선언하였습니다. 이것은 List컬렉션에
-		//저장되는 객체를 String 타입으로 하겠다는 뜻입니다.
-		//따라서 E 타입 파라미터는 String타입이 되는 것입니다.
-		//그래서 add()메소드의 매개값은 문자열이 되고 get()메소드의 리턴값은 문자열이
-		//됩니다
-		List<String> list=new ArrayList<String>();
-		list.add("홍길동");
-		String s1=list.get(0);
-		
-		//foreach문 사용
-		for(String s:list) {
-			System.out.println(s);
-		}
-		
-	}
-	
 
 }
 
