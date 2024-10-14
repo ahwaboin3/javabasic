@@ -1,0 +1,8 @@
+package c12.nio2;
+
+//Paths 와 Path 클래스
+//java.nio.file.Path 위치에 있다
+//자바 1.7(7)에서 파일 및 디렉토리의 경로 표현을 위해 추가된 인터페이스
+public class SimpleTxtWriteRead {
+
+}

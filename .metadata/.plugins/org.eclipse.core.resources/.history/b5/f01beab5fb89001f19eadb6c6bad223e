@@ -1,0 +1,11 @@
+package c12.file;
+
+//File 클래스
+//java.io 패키지에서 제공하는 File클래스는 파일 및 폴더 정보를 제공해주는
+//역활을 합니다.
+public class FileExample {
+	public static void main(String[] args) {
+		
+	}
+
+}

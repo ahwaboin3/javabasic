@@ -1,0 +1,8 @@
+package c12;
+
+public class ReadExample {
+	public static void main(String[] args) {
+		
+	}
+
+}

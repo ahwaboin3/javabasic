@@ -1,0 +1,20 @@
+package c12.file;
+
+import java.io.File;
+
+//File 클래스
+//java.io 패키지에서 제공하는 File클래스는 파일 및 폴더 정보를 제공해주는
+//역활을 합니다.
+public class FileExample {
+	public static void main(String[] args) {
+		//File 객체를 생성했다고 해서 파일이나 폴더가 생성되는 것은 아닙니다.
+		//그리고 제공되는 문자열 경로에 실제 파일이나 폴더가 없더라도 예외가
+		//발생하지 않습니다.
+		//해당 경로에 파일이나 폴더가 있는지 확인하고 싶다면 exists()메소드를
+		//호출해보면 됩니다.
+		//파일이나 폴더가 존재한다면 true를 리턴하고 그렇지 않으면 
+		//false를 리턴합니다
+		File dir=new File("C/Temp/images");
+	}
+
+}

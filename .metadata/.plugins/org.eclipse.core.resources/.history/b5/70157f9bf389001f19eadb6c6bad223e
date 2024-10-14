@@ -1,0 +1,13 @@
+package c12;
+
+public class ReadExample {
+	public static void main(String[] args) {
+		//바이트 입력 스트림:InputStream
+		//InputSteam은 바이트 기반 입력 스트림의 최상위 클래스로 추상클래스입니다
+		//모든 바이트 기반 입력 스틀미은 InputStream클래스를 상속받아서
+		//만들어 집니다
+		//InputStream클래스를 상속하는 클래스
+		//FileInputStream, BufferedInputStream, DataInputStream
+	}
+
+}

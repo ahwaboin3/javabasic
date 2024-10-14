@@ -1,0 +1,6 @@
+package c12.stringio;
+
+//문자 출력 스트림:Writer
+public class WriteExample {
+
+}

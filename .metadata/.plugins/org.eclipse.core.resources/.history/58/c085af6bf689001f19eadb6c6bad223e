@@ -1,0 +1,14 @@
+package c12.stringio;
+
+//문자 출력 스트림:Writer
+//Writer는 문자 기반 출력 스트림의 최상위클래스로 추상 클래스입니다.
+//모든 문자 기반 출력 스트림 클래스는 Wriiter클래스를 상속받아서 만들어집니다.
+//FileWriter,BufferedWriter,PrintWriter,OutputStreamWriter
+//이 클래스들은 모두 Writer클래스를 상속하고 있습니다.
+//Writer클래스의 주요 메소드
+//리턴 타입 | 메소드 | 설명
+//void | write(int c) | 매개값으로 주어진 한 문자를 보냅니다.
+//void | Write(char[] cbuf)| 매개값으로 주어진 배열의 모든 문자를 보냅니다.
+public class WriteExample {
+
+}
