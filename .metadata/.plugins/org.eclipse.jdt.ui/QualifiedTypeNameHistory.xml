@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="c06.MethodName"/>
-    <fullyQualifiedTypeName name="c06.Calculator"/>
-    <fullyQualifiedTypeName name="c06.Param"/>
-    <fullyQualifiedTypeName name="c06.MethodRetrun"/>
-    <fullyQualifiedTypeName name="c06.MethodCall"/>
-    <fullyQualifiedTypeName name="c06.CalAvg"/>
-    <fullyQualifiedTypeName name="c06.MethodOverloading"/>
     <fullyQualifiedTypeName name="c06.StaticMember"/>
     <fullyQualifiedTypeName name="c06.SingletonApp"/>
     <fullyQualifiedTypeName name="c06.Singleton"/>
@@ -59,5 +52,12 @@
     <fullyQualifiedTypeName name="c11.ArrayListClass"/>
     <fullyQualifiedTypeName name="c11.LinkedListClass"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.io.OutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.nio.file.Paths"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.nio.file.Files"/>
 </qualifiedTypeNameHistroy>

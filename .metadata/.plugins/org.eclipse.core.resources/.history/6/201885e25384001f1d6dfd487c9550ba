@@ -1,6 +1,0 @@
-package c07.poly3;
-
-//매개 변수의 다형성
-public class Vehicle {
-
-}

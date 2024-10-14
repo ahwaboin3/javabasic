@@ -1,9 +1,0 @@
-package c07.poly2;
-
-public class CarApp {
-	
-	public static void main(String[] args) {
-		
-	}
-
-}
