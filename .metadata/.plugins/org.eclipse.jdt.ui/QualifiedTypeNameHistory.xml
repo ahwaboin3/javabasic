@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="c06.TireWheel"/>
-    <fullyQualifiedTypeName name="c06.Constructor"/>
-    <fullyQualifiedTypeName name="c06.Constructor2"/>
-    <fullyQualifiedTypeName name="c06.OverLoading"/>
-    <fullyQualifiedTypeName name="c06.NetflixContent"/>
     <fullyQualifiedTypeName name="c06.MethodName"/>
     <fullyQualifiedTypeName name="c06.Calculator"/>
     <fullyQualifiedTypeName name="c06.Param"/>
@@ -48,7 +43,6 @@
     <fullyQualifiedTypeName name="c08.paramploy.Vehicle"/>
     <fullyQualifiedTypeName name="c08.paramploy.Bus"/>
     <fullyQualifiedTypeName name="c09.ExceptionDetails"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.lang.IncompatibleClassChangeError"/>
@@ -59,4 +53,11 @@
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="c10.SmartPhone"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="c11.ArrayListClass"/>
+    <fullyQualifiedTypeName name="c11.LinkedListClass"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

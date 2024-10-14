@@ -1,0 +1,6 @@
+package c11.map;
+
+//Map 컬렉션
+public class HashMapExample {
+
+}

@@ -1,0 +1,6 @@
+package c11.map;
+
+//사용자 정의 객체인 Student를 키로 하고 점수를 값으로 저장하는 HashMap사용 한다.
+public class Student {
+
+}
