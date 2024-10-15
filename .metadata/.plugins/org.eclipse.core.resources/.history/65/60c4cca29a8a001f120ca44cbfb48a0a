@@ -4,7 +4,6 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.ObjectInputStream;
 
 //try-with-resource
 //예외 처리 구문
@@ -43,8 +42,7 @@ public class TryWithResources {
 		//new 키워드가 두개이상인 경우
 		try(
 			FileInputStream fis=new FileInputStream("file.txt");
-			ObjectInputStream ois=new ObjectInputStream(fis);
-		){
+			){
 			
 		}catch(Exception e) {
 			e.printStackTrace();

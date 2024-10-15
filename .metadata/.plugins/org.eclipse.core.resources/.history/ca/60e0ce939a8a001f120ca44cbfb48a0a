@@ -4,7 +4,6 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.ObjectInputStream;
 
 //try-with-resource
 //예외 처리 구문
@@ -37,15 +36,6 @@ public class TryWithResources {
 			//try-with-resources 기반의 오픈 및 종료 대상이 되기 위한 조건
 			//java.lang.AutoCloseable 인터페이스를 구현
 			//AutoCloseable은 Closeable의 상위 클래스입니다.
-		}catch(Exception e) {
-			e.printStackTrace();
-		}
-		//new 키워드가 두개이상인 경우
-		try(
-			FileInputStream fis=new FileInputStream("file.txt");
-			ObjectInputStream ois=new ObjectInputStream(fis);
-		){
-			
 		}catch(Exception e) {
 			e.printStackTrace();
 		}
