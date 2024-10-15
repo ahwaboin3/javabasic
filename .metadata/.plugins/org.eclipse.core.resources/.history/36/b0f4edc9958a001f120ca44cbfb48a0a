@@ -15,8 +15,6 @@ import java.util.List;
 public class StrBox implements Serializable{
 	
 	private String s;
-	//참조 변수 s가 참조하는 인스턴스가 Serializable을 구현하는
-	//클래스의 인스턴스이면 함께 직렬화 된다.
 //	private SBox sBox;
 //	private Scanner sc;
 //	private int i;
