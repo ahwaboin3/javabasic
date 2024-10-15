@@ -1,0 +1,18 @@
+package c14;
+
+//람다의 소개
+public class Lambda1 {
+	
+	public static void main(String[] args) {
+//		Printable prn=new Printable();
+		//익명 클래스
+		Printable prn1=new Printable() {
+			
+			@Override
+			public void print(String s) {
+				
+			}
+		};
+	}
+
+}

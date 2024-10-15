@@ -1,0 +1,9 @@
+package c13;
+
+public class UseEnum {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

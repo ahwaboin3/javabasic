@@ -1,0 +1,14 @@
+package c14;
+
+public class Lambda2 {
+	public static void main(String[] args) {
+		Printable prn=new Printable() {
+			
+			@Override
+			public void print(String s) {
+				
+			}
+		};
+	}
+
+}

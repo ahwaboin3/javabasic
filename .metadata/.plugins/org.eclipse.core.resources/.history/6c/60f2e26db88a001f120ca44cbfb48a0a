@@ -1,0 +1,9 @@
+package c13;
+
+//클래스 내에 열거형 정의 가능
+public class Customer {
+	enum Grade{
+		BRONZE,SILVER,GOLD
+	}
+
+}

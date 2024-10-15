@@ -1,0 +1,12 @@
+package c13;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class SchoolSong {
+	
+	public static void main(String[] args) {
+		List<Integer> list=Arrays.asList();
+	}
+
+}

@@ -1,0 +1,19 @@
+package c13;
+
+public class NonSafeConst {
+	
+	public void who(int man) {
+		switch(man) {
+		case Person.MAN:
+			System.out.println("남성 손님입니다.");
+			break;
+		case Person.WOMAN:
+			System.out.println("여성 손님입니다.");
+			break;
+		}
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

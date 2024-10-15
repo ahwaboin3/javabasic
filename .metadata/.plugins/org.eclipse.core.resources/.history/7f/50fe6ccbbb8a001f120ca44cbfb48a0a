@@ -1,0 +1,10 @@
+package c14;
+
+//람다의 소개
+public class Lambda1 {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

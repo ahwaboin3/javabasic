@@ -1,0 +1,20 @@
+package c13;
+
+public class SafeEnum {
+	public void who(Persons man) {
+		switch(man) {
+		case MAN:
+			System.out.println("남성 손님입니다.");
+			break;
+		case WOMAN:
+			System.out.println("여성 손닙입니다.");
+			break;
+		}
+	}
+	public static void main(String[] args) {
+		SafeEnum se=new SafeEnum();
+		se.who(Persons.MAN);
+//		se.who(Animals.DOG);
+	}
+
+}

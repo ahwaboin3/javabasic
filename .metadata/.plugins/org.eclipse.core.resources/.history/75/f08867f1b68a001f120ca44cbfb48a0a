@@ -1,0 +1,10 @@
+package c13;
+
+public class UseEnum {
+	
+	public static void main(String[] args) {
+		System.out.println(Scale.DO);
+		System.out.println(Scale.RE);
+	}
+
+}
