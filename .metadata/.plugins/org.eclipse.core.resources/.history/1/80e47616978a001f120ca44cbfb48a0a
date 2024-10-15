@@ -1,0 +1,25 @@
+package trywithresources;
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+
+//try-with-resource
+//예외 처리 구문
+//자바 7버전에서 새롭게 업데이트
+public class TryWithResources {
+	public static void main(String[] args) {
+		//자바7번 이전의 try-catch-finally
+		//사용 후에 반납해주어야 하는 자원들은 Closable 인터페이스를 구현하고
+		//있으며, 사용 후에 close 메소드를 호출해주어야 했다.
+		FileOutputStream fos=null;
+		try {
+			fos=new FileOutputStream("C:/Temp/file.txt");
+			fos.flush();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}finally{
+			fos.close();
+		}
+	}
+
+}

@@ -1,0 +1,8 @@
+package trywithresources;
+
+//try-with-resource
+//예외 처리 구문
+//자바 7버전에서 새롭게 업데이트
+public class TryWithResources {
+
+}
