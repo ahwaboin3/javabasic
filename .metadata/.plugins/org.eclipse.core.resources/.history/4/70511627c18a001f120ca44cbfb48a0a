@@ -1,0 +1,8 @@
+package c14;
+
+public class TwoParamNoReturn {
+	public static void main(String[] args) {
+		
+	}
+
+}

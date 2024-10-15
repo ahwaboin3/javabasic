@@ -1,0 +1,9 @@
+package c14;
+
+public class LambdaParam {
+	
+	public void getPrintable(Printable p) {
+		
+	}
+
+}

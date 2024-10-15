@@ -1,0 +1,9 @@
+package c14;
+
+public class OneParamNoReturn {
+	public static void main(String[] args) {
+		//Simple is better than complex
+		Printable p;
+	}
+
+}
