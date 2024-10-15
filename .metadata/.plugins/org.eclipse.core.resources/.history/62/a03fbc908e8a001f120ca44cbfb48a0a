@@ -1,0 +1,6 @@
+package c12.objio;
+
+//IO 스트림 기반의 인스턴스 저장
+public class SBox {
+	
+}

@@ -1,0 +1,9 @@
+package c12.copymove;
+
+//파일 및 디렉토리의 복사와 이동
+//복사 메소드
+//public static Path copy(Path source,Path target,
+// CopyOption ...options) throws IOException
+public class CopyFileFromFiles {
+
+}

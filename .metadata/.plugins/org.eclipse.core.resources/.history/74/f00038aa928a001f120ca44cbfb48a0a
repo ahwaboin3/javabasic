@@ -1,0 +1,6 @@
+package c12.objio;
+
+public class StrBox {
+	private String s;
+	
+}

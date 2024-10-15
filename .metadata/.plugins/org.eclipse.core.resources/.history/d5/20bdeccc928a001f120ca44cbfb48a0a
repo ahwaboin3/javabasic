@@ -1,0 +1,17 @@
+package c12.objio;
+
+public class StrBox {
+	
+	private String s;
+
+	public StrBox(String s) {
+		this.s = s;
+	}
+
+	public String getS() {
+		return s;
+	}
+	
+	
+	
+}

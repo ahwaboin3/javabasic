@@ -1,0 +1,22 @@
+package c12.objio;
+
+import java.util.Scanner;
+
+public class StrBox {
+	
+	private String s;
+	private SBox sBox;
+	private Scanner sc;
+	private int i;
+
+	public StrBox(String s) {
+		this.s = s;
+	}
+
+	public String getS() {
+		return s;
+	}
+	
+	
+	
+}
