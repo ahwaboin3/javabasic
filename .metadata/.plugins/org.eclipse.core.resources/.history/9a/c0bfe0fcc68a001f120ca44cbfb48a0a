@@ -1,0 +1,12 @@
+package shopinglist;
+
+public class SLApp {
+	public static void main(String[] args) {
+		SLRepo sRepo=new SLRepo();
+		sRepo.addSL("샴푸");
+		sRepo.addSL("바디워시");
+		
+		sRepo.printSLs(sls->System.out.println(sls);
+	}
+
+}

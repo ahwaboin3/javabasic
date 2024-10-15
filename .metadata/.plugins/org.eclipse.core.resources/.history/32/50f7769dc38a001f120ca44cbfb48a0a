@@ -1,0 +1,8 @@
+package shopinglist;
+
+import java.util.List;
+
+public class SLRepo {
+	List<ShoppingList> SLs;
+
+}

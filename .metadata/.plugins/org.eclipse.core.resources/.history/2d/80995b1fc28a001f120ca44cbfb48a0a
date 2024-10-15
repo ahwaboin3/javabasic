@@ -1,0 +1,11 @@
+package shopinglist;
+
+import java.util.Scanner;
+
+public class ShopingListApp {
+	
+	public static void main(String[] args) {
+		ShoppingListRepository slr=new ShoppingListRepository();
+	}
+
+}

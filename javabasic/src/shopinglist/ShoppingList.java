@@ -16,5 +16,4 @@ public class ShoppingList {
 	public String toString() {
 		return "ShoppingList [name=" + name + "]";
 	}
-	
 }

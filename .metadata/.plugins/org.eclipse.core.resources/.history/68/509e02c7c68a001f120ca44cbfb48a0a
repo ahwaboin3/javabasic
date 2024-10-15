@@ -1,0 +1,8 @@
+package shopinglist;
+
+public class SLApp {
+	public static void main(String[] args) {
+		SLRepo sRepo=new SLRepo();
+	}
+
+}

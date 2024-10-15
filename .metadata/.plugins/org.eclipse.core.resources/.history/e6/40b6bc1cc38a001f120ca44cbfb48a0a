@@ -1,0 +1,7 @@
+package shopinglist;
+
+public interface ShopRepo {
+	
+	void printSLs();
+
+}

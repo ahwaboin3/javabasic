@@ -1,0 +1,9 @@
+package c14;
+
+public class OneOaramAndReturn {
+	public static void main(String[] args) {
+		//매개변수가 있고 반환하는 람다식
+		HowLong hl=s->s
+	}
+
+}

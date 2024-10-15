@@ -1,0 +1,9 @@
+package shopinglist;
+
+public class ShopingListApp {
+	
+	public static void main(String[] args) {
+		ShoppingListRepository slr=new ShoppingListRepository();
+	}
+
+}
