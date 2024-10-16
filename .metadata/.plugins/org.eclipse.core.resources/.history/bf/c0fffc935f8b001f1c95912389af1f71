@@ -1,0 +1,10 @@
+package c14.functional;
+
+//removeif 메소드를 사용해 보자
+//Collection<E> 인터페이스의 디폴트 메소드
+//default boolean removeIf(Predicate<E> filter)
+//removeIf 메소드의 기능
+//리스트의 predicate로 주어진 것으로 모든 요소를 삭제합니다. 
+public class RemoveIfDemo {
+
+}

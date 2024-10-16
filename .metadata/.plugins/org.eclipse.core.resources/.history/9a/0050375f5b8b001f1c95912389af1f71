@@ -1,0 +1,8 @@
+package c14.functional;
+
+public class SupplierInter {
+	//Supplier<T> : T get();
+	public List<Integer> makeIntList(int n){
+		
+	}
+}

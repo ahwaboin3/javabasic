@@ -1,0 +1,8 @@
+package c16.use;
+
+//Optional 클래스의 기본적인 사용 방법1
+//public final class Optional<T> extends Object{
+//private final T value;->이 참조 변수를 통해 저장을 하는 일종의 래퍼 클래스
+public class StringOptional1 {
+
+}

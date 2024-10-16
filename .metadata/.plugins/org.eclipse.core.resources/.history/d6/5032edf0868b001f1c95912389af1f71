@@ -1,0 +1,8 @@
+package c16.use;
+
+public class OptionalClassUse {
+	public static void main(String[] args) {
+		
+	}
+
+}

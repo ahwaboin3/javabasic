@@ -1,0 +1,10 @@
+package c14.functional;
+
+import java.util.List;
+
+public class SupplierInter {
+	//Supplier<T> : T get();
+	public List<Integer> makeIntList(int n){
+		
+	}
+}

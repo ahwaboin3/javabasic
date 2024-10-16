@@ -1,0 +1,16 @@
+package c16.use;
+
+import java.util.Optional;
+
+import c16.Friend;
+
+public class OptionalClassUse {
+	public void showCompAddr(Optional<Friend> f) {
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

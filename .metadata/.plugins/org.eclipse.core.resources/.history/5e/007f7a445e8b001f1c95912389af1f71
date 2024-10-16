@@ -1,0 +1,6 @@
+package c14.functional;
+
+//Function<T,R> -> R apply(T t)
+public class FuntionInter {
+
+}

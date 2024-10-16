@@ -1,0 +1,18 @@
+package c14.functional;
+
+import java.util.function.Consumer;
+
+//Consumer<T> -> void accept(T t)
+public class ConsumerInter {
+	
+	public void printStr(Consumer<String> c,String s) {
+		c.accept(s);
+	}
+	
+	public static void main(String[] args) {
+		ConsumerInter ci=new ConsumerInter();
+		ci.printStr(s->System.out.println(s),"Pineapple");
+		ci.printStr(s->System.out.println(s),"Strawberry");
+	}
+
+}

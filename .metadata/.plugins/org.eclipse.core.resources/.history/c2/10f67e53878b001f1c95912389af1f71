@@ -1,0 +1,23 @@
+package c16.use;
+
+import java.util.Optional;
+
+import c16.Company;
+import c16.ContInfo;
+import c16.Friend;
+
+public class OptionalClassUse {
+	//null일 가능성이 있는 처리를 해야 하는 메소드의 옵션날을 사용하므로써
+	//개선된 결과
+	public void showCompAddr(Optional<Friend> f) {
+		String addr=f.map(Friend::getCmp)
+				.map(Company::getcInfo)
+				.map(ContInfo::getAdrs)
+				.orElse("Thre's no...");
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

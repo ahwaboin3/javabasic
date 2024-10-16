@@ -1,0 +1,6 @@
+package c14.functional;
+
+//Consumer<T> -> void accept(T t)
+public class ConsumerInter {
+
+}

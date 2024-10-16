@@ -1,0 +1,7 @@
+package c16;
+
+//친구 정보
+public class Friend {
+	private String name;
+	private Company cmp;
+}

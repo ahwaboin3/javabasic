@@ -1,0 +1,13 @@
+package c15;
+
+import java.util.function.Function;
+
+//4.생성자 참조
+public class StringMaker {
+	public static void main(String[] args) {
+		Function<char[],String> f= ar->{
+			return new String(ar);
+		};
+	}
+
+}

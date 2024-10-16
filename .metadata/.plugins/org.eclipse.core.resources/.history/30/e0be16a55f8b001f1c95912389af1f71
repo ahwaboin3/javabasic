@@ -1,0 +1,11 @@
+package c14.functional;
+
+//removeif 메소드를 사용해 보자
+//Collection<E> 인터페이스의 디폴트 메소드
+//default boolean removeIf(Predicate<E> filter)
+//removeIf 메소드의 기능
+//ArrayList의 removeIf() 메소드는 인자로 전달된 조건으로 리스트의 아이템드을
+//삭제합니다.
+public class RemoveIfDemo {
+
+}

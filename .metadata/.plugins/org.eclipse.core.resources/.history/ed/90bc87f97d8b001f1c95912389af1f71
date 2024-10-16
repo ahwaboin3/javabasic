@@ -1,0 +1,7 @@
+package c16;
+
+public class Company {
+	private String cName;
+	private ContInfo cInfo;
+
+}

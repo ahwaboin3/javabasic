@@ -1,0 +1,8 @@
+package c16;
+
+//회사 정보에 속하는 회사 연락처와 주소
+public class ContInfo {
+	private String phone;
+	private String adrs;
+
+}

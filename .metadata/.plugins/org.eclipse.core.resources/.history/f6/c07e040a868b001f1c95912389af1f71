@@ -1,0 +1,9 @@
+package c16.use;
+
+public class OptionalOrElse {
+	public static void main(String[] args) {
+		//Optionla의 orElse메소드
+		//null일 경우 orElse의 매개변수로 전달된 인스턴스가 대신 반환
+	}
+
+}
