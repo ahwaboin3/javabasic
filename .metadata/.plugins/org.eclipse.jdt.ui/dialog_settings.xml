@@ -23,8 +23,8 @@
 	<section name="JavaElementSearchActions">
 	</section>
 	<section name="NewClassCreationWizard.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="407"/>
-		<item key="DIALOG_Y_ORIGIN" value="199"/>
+		<item key="DIALOG_X_ORIGIN" value="1054"/>
+		<item key="DIALOG_Y_ORIGIN" value="235"/>
 		<item key="DIALOG_WIDTH" value="543"/>
 		<item key="DIALOG_HEIGHT" value="638"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
@@ -55,8 +55,8 @@
 		<item key="height" value="400"/>
 	</section>
 	<section name="NewInterfaceCreationWizard.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="622"/>
-		<item key="DIALOG_Y_ORIGIN" value="384"/>
+		<item key="DIALOG_X_ORIGIN" value="835"/>
+		<item key="DIALOG_Y_ORIGIN" value="526"/>
 		<item key="DIALOG_WIDTH" value="548"/>
 		<item key="DIALOG_HEIGHT" value="522"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
@@ -157,5 +157,12 @@
 		<item key="updateQualifiedNames" value="false"/>
 		<item key="patterns" value="*"/>
 		<item key="renameSubpackages" value="false"/>
+	</section>
+	<section name="NewEnumCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="697"/>
+		<item key="DIALOG_Y_ORIGIN" value="184"/>
+		<item key="DIALOG_WIDTH" value="543"/>
+		<item key="DIALOG_HEIGHT" value="517"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>

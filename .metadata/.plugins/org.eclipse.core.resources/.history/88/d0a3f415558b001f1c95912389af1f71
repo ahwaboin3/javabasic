@@ -1,0 +1,14 @@
+package c14.functional;
+
+import java.util.function.Predicate;
+
+//정의되어 있는 함수형 인터페이스
+//람다식을 사용할 때 - 함수형 인터페이스가 필요
+//미리 정의되어 있는 함수형 인터페이스를 제공 한다
+public class PredicateInterface {
+	//Predicate<T> -> boolean test(T t)
+	//전달 인자를 근거로 참 또는 거짓을 반환
+	public int sum(Predicate<Integer> p) {
+		
+	}
+}
