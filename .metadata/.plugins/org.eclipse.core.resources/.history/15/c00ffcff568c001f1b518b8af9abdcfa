@@ -1,0 +1,11 @@
+package c18.gmt;
+
+public class ZonedDateTimeDemo2 {
+	public static void main(String[] args) {
+		//한국에서 파리로 비행기 탑니다
+		//한국 출발 현지 시간 2024년 10월 18일 14시 30분
+		//파리 도착 현지 시간 2024년 10월 18일 17시 25분
+		//비행에 걸린 시간은?
+	}
+
+}

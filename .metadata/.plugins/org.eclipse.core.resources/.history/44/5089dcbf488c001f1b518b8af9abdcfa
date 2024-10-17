@@ -1,0 +1,9 @@
+package c18;
+
+//날짜의 차를 표현하기 위한 Period클래스
+public class LocalDateDemo2 {
+	public static void main(String[] args) {
+		//오늘
+		//크리스마스까지 앞으로 며칠?
+	}
+}

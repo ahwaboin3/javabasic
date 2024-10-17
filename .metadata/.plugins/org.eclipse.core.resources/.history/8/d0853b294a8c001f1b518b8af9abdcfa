@@ -1,0 +1,15 @@
+package c18;
+
+import java.time.LocalTime;
+
+//LocalTime 클래스
+//시각 정보를 나타내는 클래스
+public class LocalTimeDemo1 {
+	public static void main(String[] args) {
+		//핸재 시각
+		LocalTime now=LocalTime.now();
+		System.out.println("지금 시각: "+now);
+	}
+
+}
+

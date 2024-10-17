@@ -1,0 +1,13 @@
+package c18;
+
+import java.time.LocalDateTime;
+
+public class LocalDateTimeDemo2 {
+	public static void main(String[] args) {
+		//두 LocalDateTime 인스턴스간의 시각과 날짜의 차
+		//빠른 항공편을 선택하는 코드
+		LocalDateTime today=LocalDateTime.of(2024, 10,17,15,18);
+		LocalDateTime flight1=LocalDateTime.of(2024, 12,14,11,15);
+		LocalDateTime flight2=LocalDateTime.of(2024, 12,13,17,30);
+	}
+}

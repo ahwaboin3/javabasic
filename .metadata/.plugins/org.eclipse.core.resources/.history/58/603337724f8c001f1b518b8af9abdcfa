@@ -1,0 +1,7 @@
+package c18;
+
+public class LocalDateTimeDemo2 {
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,12 @@
+package c18.gmt;
+
+import java.time.ZonedDateTime;
+
+public class ZonedDateTimeDemo1 {
+	public static void main(String[] args) {
+		//시간대를 반영한 ZonedDateTime 클래스
+		//이곳의 현재 날짜와 시각
+		ZonedDateTime here=ZonedDateTime.now();
+	}
+
+}

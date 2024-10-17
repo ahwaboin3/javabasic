@@ -1,0 +1,7 @@
+package c18;
+
+public class LocalDateTimeDemo2 {
+	public static void main(String[] args) {
+		//두 LocalDateTime 인스턴스간의 시각과 날짜의 차
+	}
+}
