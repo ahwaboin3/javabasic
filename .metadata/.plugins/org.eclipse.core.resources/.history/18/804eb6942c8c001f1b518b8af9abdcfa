@@ -24,13 +24,7 @@ public class ToyPriceInfo {
 		ls.add(new ToyPriceInfo("TEDDY_BEAR_S_014", 350));
 		ls.add(new ToyPriceInfo("CAR_TRANSFORM_VER_7719", 550));
 		
-		//500원 이상의 장난감만 분류하고 총 가격을 구하시오.
-		int sum=ls.stream()
-				.filter(p->p.getPrice()>500)
-				.mapToInt(t->t.getPrice())
-				.sum();
-		System.out.println("sum= "+sum);
-		
+		//500원 이상의 장난감만 분류하시오
 	}
 }
 

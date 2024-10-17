@@ -1,0 +1,7 @@
+package c17.mapping;
+
+//정렬
+//sorted(Comparator c)
+public class InstSortedStream {
+
+}

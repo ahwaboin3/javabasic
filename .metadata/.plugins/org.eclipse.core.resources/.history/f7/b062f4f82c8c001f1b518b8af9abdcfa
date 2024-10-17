@@ -27,9 +27,8 @@ public class ToyPriceInfo {
 		//500원 이상의 장난감만 분류하고 총 가격을 구하시오.
 		int sum=ls.stream()
 				.filter(p->p.getPrice()>500)
-				.mapToInt(t->t.getPrice())
+				.map(t->t.getPrice())
 				.sum();
-		System.out.println("sum= "+sum);
 		
 	}
 }

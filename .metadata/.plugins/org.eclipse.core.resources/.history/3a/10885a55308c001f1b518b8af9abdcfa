@@ -1,0 +1,11 @@
+package c17.lastop;
+
+//스트림의 최종 연산
+//sum() - 전체를 더합니다
+//count() - 전체의 갯수 셉니다
+//average() - 전체의 평균을 구합니다
+//min() - 가장 작은 요소를 반환합니다
+//max() - 가장 큰 요소를 반환합니다.
+public class OpSteam {
+
+}

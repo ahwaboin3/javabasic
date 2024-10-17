@@ -29,7 +29,6 @@ public class ToyPriceInfo {
 				.filter(p->p.getPrice()>500)
 				.mapToInt(t->t.getPrice())
 				.sum();
-		System.out.println("sum= "+sum);
 		
 	}
 }

@@ -1,0 +1,16 @@
+package c17.mapping;
+
+import java.util.stream.Stream;
+
+//정렬
+//sorted(Comparator c)
+public class InstSortedStream {
+	public static void main(String[] args) {
+		//스트림 생성
+		//of() - 스트림 생성에 필요한 데이터를 직접 전달
+		Stream.of("Box","Apple","Robot")
+			.sorted()
+			.forEach(s->System.out.println(s));
+	}
+
+}
