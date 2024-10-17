@@ -1,0 +1,9 @@
+package c17;
+
+//스트림 생성하기:컬렉션 인스턴스
+public class ListStream {
+	public static void main(String[] args) {
+		
+	}
+
+}

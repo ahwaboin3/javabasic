@@ -1,0 +1,11 @@
+package c17;
+
+public class FilterStream {
+	public static void main(String[] args) {
+		//스트림의 중간 연산
+		//필터링 - 스트림을 구성하는 데이터 중 일부를 조건에 따라 걸러내는 연산
+		//Stream<T>에 존재하는 메소드
+		//Stream<T> filter(Predicate<? super T> predicate
+	}
+
+}

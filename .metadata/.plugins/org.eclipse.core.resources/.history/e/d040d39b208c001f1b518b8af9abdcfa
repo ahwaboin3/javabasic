@@ -1,0 +1,11 @@
+package c17;
+
+//스트림 생성하기:컬렉션 인스턴스
+public class ListStream {
+	public static void main(String[] args) {
+		//컬렉션 인스턴스를 대상으로 스트림 생성 시 호출하는 메소드
+		//java.util.Collection<E>의 메소드
+		//Stream<E> stream()
+	}
+
+}

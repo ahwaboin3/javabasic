@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="c07.video.VideoController"/>
-    <fullyQualifiedTypeName name="c07.casting.ForceCasting"/>
-    <fullyQualifiedTypeName name="c07.casting.ForceCastingParents"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="shopinglist.ShopingListApp"/>
-    <fullyQualifiedTypeName name="shopinglist.ShoppingListRepository"/>
-    <fullyQualifiedTypeName name="c08.Searchable"/>
-    <fullyQualifiedTypeName name="c08.SmartTelevision"/>
     <fullyQualifiedTypeName name="c08.RemoteControl"/>
     <fullyQualifiedTypeName name="c08.use.MyClass"/>
     <fullyQualifiedTypeName name="c08.Television"/>
@@ -26,7 +18,6 @@
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="c10.SmartPhone"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="java.lang.Boolean"/>
     <fullyQualifiedTypeName name="c11.ArrayListClass"/>
@@ -43,9 +34,7 @@
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
-    <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="c13.NonSafeConst"/>
     <fullyQualifiedTypeName name="c13.SafeEnum"/>
     <fullyQualifiedTypeName name="c13.Customer"/>
@@ -60,4 +49,15 @@
     <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
     <fullyQualifiedTypeName name="shopinglist.ShoppingList"/>
     <fullyQualifiedTypeName name="shopinglist.SLRepo"/>
+    <fullyQualifiedTypeName name="c14.functional.PredicateInterface"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="c15.ArrangeList"/>
+    <fullyQualifiedTypeName name="c14.functional.SupplierInter"/>
+    <fullyQualifiedTypeName name="c14.functional.ConsumerInter"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="c15.ArrangeList3"/>
+    <fullyQualifiedTypeName name="c16.use.OptionalClassUse"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
 </qualifiedTypeNameHistroy>
