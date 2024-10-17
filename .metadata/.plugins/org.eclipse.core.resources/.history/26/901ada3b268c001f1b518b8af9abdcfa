@@ -1,0 +1,8 @@
+package c17;
+
+public class MapToInt {
+	public static void main(String[] args) {
+		//맵핑 - map
+	}
+
+}

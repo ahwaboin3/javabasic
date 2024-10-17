@@ -1,0 +1,10 @@
+package c17;
+
+public class MapToInt {
+	public static void main(String[] args) {
+		//맵핑 - map
+		//맵(map)은 스트림 내 요소들을 하나씩 특정 값으로 변환해 줍니다.
+		//이 때 값을 변환하기 위한 람다를 인자로 받습니다.
+	}
+
+}
