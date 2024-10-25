@@ -1,9 +1,0 @@
-package c10;
-
-import java.util.Date;
-
-public class ToStringExample {
-	public static void main(String[] args) {
-		Date date=new Date();
-	}
-}

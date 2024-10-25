@@ -1,0 +1,6 @@
+package phonebook;
+
+//Model
+public class Person {
+	
+}

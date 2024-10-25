@@ -1,0 +1,12 @@
+package phonebook;
+
+//View - Console
+public class PhoneBookView {
+	
+	public void getMenu() {
+		System.out.println("전화번호부입니다.");
+		System.out.println("0.종료");
+		System.out.println("메뉴 선택:");
+		
+	}
+}

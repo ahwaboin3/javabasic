@@ -1,0 +1,6 @@
+package phonebook;
+
+//View - Console
+public class PhoneBookView {
+	
+}

@@ -1,0 +1,8 @@
+package phonebook;
+
+//Model - DTO
+public class Person {
+	private String name;
+	private String phone;
+	
+}

@@ -1,0 +1,9 @@
+package phonebook;
+
+public class PhoneBooApp {
+	
+	public static void main(String[] args) {
+		Person p1=new Person("테스트이름1","테스트전화번호1");
+	}
+
+}

@@ -1,0 +1,10 @@
+package phonebook;
+
+public class PhoneBookController {
+	
+	public void runApp() {
+		while(true) {
+			//메뉴 보여 주기
+		}
+	}
+}

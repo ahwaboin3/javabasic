@@ -1,0 +1,9 @@
+package phonebook;
+
+//View - Console
+public class PhoneBookView {
+	
+	public void getMenu() {
+		
+	}
+}
