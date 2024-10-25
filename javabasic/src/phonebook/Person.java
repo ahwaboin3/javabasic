@@ -5,6 +5,7 @@ public class Person {
 	
 	private String name;
 	private String phone;
+	private int idx;
 	
 	public String getName() {
 		return name;
@@ -17,6 +18,13 @@ public class Person {
 	}
 	public void setPhone(String phone) {
 		this.phone = phone;
+	}
+	
+	public int getIdx() {
+		return idx;
+	}
+	public void setIdx(int idx) {
+		this.idx = idx;
 	}
 	
 	@Override

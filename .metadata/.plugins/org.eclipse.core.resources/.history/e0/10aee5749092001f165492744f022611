@@ -1,0 +1,20 @@
+package phonebook;
+
+import java.util.ArrayList;
+import java.util.List;
+
+//Model
+public class PhoneBookService {
+	List<Person> persons=new ArrayList<>();
+	
+	//전화번호를 추가하면 리스트에 추가
+	public void addPerson(Person p) {
+		persons.add(p);
+	}
+
+}
+
+
+
+
+

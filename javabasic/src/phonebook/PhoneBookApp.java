@@ -12,6 +12,8 @@ public class PhoneBookApp {
 		//메뉴가 보이기
 		//PhoneBookApp
 		PhoneBookController pbc=new PhoneBookController();
+		//테스트 데이터 넣기
+		pbc.setTestData();
 		pbc.runApp();
 	}
 

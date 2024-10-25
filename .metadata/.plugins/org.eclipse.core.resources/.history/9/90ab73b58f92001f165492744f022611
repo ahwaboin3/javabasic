@@ -1,0 +1,11 @@
+package phonebook;
+
+import java.util.ArrayList;
+import java.util.List;
+
+//Model
+public class PhoneBookService {
+	List<Person> persons=new ArrayList<>();
+	
+
+}
